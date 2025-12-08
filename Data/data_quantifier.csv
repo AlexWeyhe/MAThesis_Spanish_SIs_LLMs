@@ -1,0 +1,397 @@
+item,context,determiner,sentence
+1,sub,algunos,Todos los tramos tienen tráfico denso. Algunos tramos tienen tráfico denso.
+1,whole,algunos,No todos los tramos tienen tráfico denso. Algunos tramos tienen tráfico denso.
+1,whole,unos,No todos los tramos tienen tráfico denso. Unos tramos tienen tráfico denso.
+2,sub,algunos,Todos los regidores opinan que nada pasará. Algunos regidores opinan que nada pasará.
+2,whole,algunos,No todos los regidores opinan que nada pasará. Algunos regidores opinan que nada pasará.
+2,whole,unos,No todos los regidores opinan que nada pasará. Unos regidores opinan que nada pasará.
+3,sub,algunos,Todos los precedentes no ayudan. Algunos precedentes no ayudan.
+3,whole,algunos,No todos los precedentes no ayudan. Algunos precedentes no ayudan.
+3,whole,unos,No todos los precedentes no ayudan. Unos precedentes no ayudan.
+4,sub,algunos,Todos los periódicos acusaron al gobierno de “matarla”. Algunos periódicos acusaron al gobierno de “matarla”.
+4,whole,algunos,No todos los periódicos acusaron al gobierno de “matarla”. Algunos periódicos acusaron al gobierno de “matarla”.
+4,whole,unos,No todos los periódicos acusaron al gobierno de “matarla”. Unos periódicos acusaron al gobierno de “matarla”.
+5,sub,algunos,Todos los pasajeros han sido evacuados por precaución. Algunos pasajeros han sido evacuados por precaución.
+5,whole,algunos,No todos los pasajeros han sido evacuados por precaución. Algunos pasajeros han sido evacuados por precaución.
+5,whole,unos,No todos los pasajeros han sido evacuados por precaución. Unos pasajeros han sido evacuados por precaución.
+6,sub,algunos,Todos los partidos políticos lo citaron. Algunos partidos políticos lo citaron.
+6,whole,algunos,No todos los partidos políticos lo citaron. Algunos partidos políticos lo citaron.
+6,whole,unos,No todos los partidos políticos lo citaron. Unos partidos políticos lo citaron.
+7,sub,algunos,Todos los hombres nacen póstumos. Algunos hombres nacen póstumos.
+7,whole,algunos,No todos los hombres nacen póstumos. Algunos hombres nacen póstumos.
+7,whole,unos,No todos los hombres nacen póstumos. Unos hombres nacen póstumos.
+8,sub,algunos,Todos los gremios no quieren dialogar. Algunos gremios no quieren dialogar.
+8,whole,algunos,No todos los gremios no quieren dialogar. Algunos gremios no quieren dialogar.
+8,whole,unos,No todos los gremios no quieren dialogar. Unos gremios no quieren dialogar.
+9,sub,algunos,Todos los ejemplos exponen el cuadro. Algunos ejemplos exponen el cuadro.
+9,whole,algunos,No todos los ejemplos exponen el cuadro. Algunos ejemplos exponen el cuadro.
+9,whole,unos,No todos los ejemplos exponen el cuadro. Unos ejemplos exponen el cuadro.
+10,sub,algunos,Todos los dispositivos brillan en la oscuridad. Algunos dispositivos brillan en la oscuridad.
+10,whole,algunos,No todos los dispositivos brillan en la oscuridad. Algunos dispositivos brillan en la oscuridad.
+10,whole,unos,No todos los dispositivos brillan en la oscuridad. Unos dispositivos brillan en la oscuridad.
+11,sub,algunos,Todos los diplomáticos occidentales participaron. Algunos diplomáticos occidentales participaron.
+11,whole,algunos,No todos los diplomáticos occidentales participaron. Algunos diplomáticos occidentales participaron.
+11,whole,unos,No todos los diplomáticos occidentales participaron. Unos diplomáticos occidentales participaron.
+12,sub,algunos,Todos los ciudadanos suben a mirar más alto. Algunos ciudadanos suben a mirar más alto.
+12,whole,algunos,No todos los ciudadanos suben a mirar más alto. Algunos ciudadanos suben a mirar más alto.
+12,whole,unos,No todos los ciudadanos suben a mirar más alto. Unos ciudadanos suben a mirar más alto.
+13,sub,algunos,Todos los chicos terminaron lastimados. Algunos chicos terminaron lastimados.
+13,whole,algunos,No todos los chicos terminaron lastimados. Algunos chicos terminaron lastimados.
+13,whole,unos,No todos los chicos terminaron lastimados. Unos chicos terminaron lastimados.
+14,sub,algunos,Todos los campamentos prometen disciplina militar. Algunos campamentos prometen disciplina militar.
+14,whole,algunos,No todos los campamentos prometen disciplina militar. Algunos campamentos prometen disciplina militar.
+14,whole,unos,No todos los campamentos prometen disciplina militar. Unos campamentos prometen disciplina militar.
+15,sub,algunos,Todos los agentes de policía resultaron lesionados. Algunos agentes de policía resultaron lesionados.
+15,whole,algunos,No todos los agentes de policía resultaron lesionados. Algunos agentes de policía resultaron lesionados.
+15,whole,unos,No todos los agentes de policía resultaron lesionados. Unos agentes de policía resultaron lesionados.
+16,sub,algunos,Todos los dirigentes sindicales quieren vivir en el anarquismo. Algunos dirigentes sindicales quieren vivir en el anarquismo.
+16,whole,algunos,No todos los dirigentes sindicales quieren vivir en el anarquismo. Algunos dirigentes sindicales quieren vivir en el anarquismo.
+16,whole,unos,No todos los dirigentes sindicales quieren vivir en el anarquismo. Unos dirigentes sindicales quieren vivir en el anarquismo.
+17,sub,algunos,Todos los sectores del instituto fueron remodelados. Algunos sectores del instituto fueron remodelados.
+17,whole,algunos,No todos los sectores del instituto fueron remodelados. Algunos sectores del instituto fueron remodelados.
+17,whole,unos,No todos los sectores del instituto fueron remodelados. Unos sectores del instituto fueron remodelados.
+18,sub,algunos,Todos los políticos dijeron que todos estaban comprados. Algunos políticos dijeron que todos estaban comprados.
+18,whole,algunos,No todos los políticos dijeron que todos estaban comprados. Algunos políticos dijeron que todos estaban comprados.
+18,whole,unos,No todos los políticos dijeron que todos estaban comprados. Unos políticos dijeron que todos estaban comprados.
+19,sub,algunos,Todos los legisladores han adoptado una postura similar. Algunos legisladores han adoptado una postura similar.
+19,whole,algunos,No todos los legisladores han adoptado una postura similar. Algunos legisladores han adoptado una postura similar.
+19,whole,unos,No todos los legisladores han adoptado una postura similar. Unos legisladores han adoptado una postura similar.
+20,sub,algunos,Todos los ex jugadores británicos criticaron a Marcelo. Algunos ex jugadores británicos criticaron a Marcelo.
+20,whole,algunos,No todos los ex jugadores británicos criticaron a Marcelo. Algunos ex jugadores británicos criticaron a Marcelo.
+20,whole,unos,No todos los ex jugadores británicos criticaron a Marcelo. Unos ex jugadores británicos criticaron a Marcelo.
+21,sub,algunos,Todos los establecimientos ofrecen financiar las compras. Algunos establecimientos ofrecen financiar las compras.
+21,whole,algunos,No todos los establecimientos ofrecen financiar las compras. Algunos establecimientos ofrecen financiar las compras.
+21,whole,unos,No todos los establecimientos ofrecen financiar las compras. Unos establecimientos ofrecen financiar las compras.
+22,sub,algunos,Todos los concejales prefieren seguir tal como están. Algunos concejales prefieren seguir tal como están.
+22,whole,algunos,No todos los concejales prefieren seguir tal como están. Algunos concejales prefieren seguir tal como están.
+22,whole,unos,No todos los concejales prefieren seguir tal como están. Unos concejales prefieren seguir tal como están.
+23,sub,algunos,Todos los aviones tienen una tecnología prácticamente olímpica Algunos aviones tienen una tecnología prácticamente olímpica
+23,whole,algunos,No todos los aviones tienen una tecnología prácticamente olímpica Algunos aviones tienen una tecnología prácticamente olímpica
+23,whole,unos,No todos los aviones tienen una tecnología prácticamente olímpica Unos aviones tienen una tecnología prácticamente olímpica
+24,sub,algunos,Todos los agentes cumplen penas de cárcel. Algunos agentes cumplen penas de cárcel.
+24,whole,algunos,No todos los agentes cumplen penas de cárcel. Algunos agentes cumplen penas de cárcel.
+24,whole,unos,No todos los agentes cumplen penas de cárcel. Unos agentes cumplen penas de cárcel.
+25,sub,algunos,Todos los aficionados evidenciaron su enfado. Algunos aficionados evidenciaron su enfado.
+25,whole,algunos,No todos los aficionados evidenciaron su enfado. Algunos aficionados evidenciaron su enfado.
+25,whole,unos,No todos los aficionados evidenciaron su enfado. Unos aficionados evidenciaron su enfado.
+26,sub,algunos,Todos los acusados murieron durante el proceso. Algunos acusados murieron durante el proceso.
+26,whole,algunos,No todos los acusados murieron durante el proceso. Algunos acusados murieron durante el proceso.
+26,whole,unos,No todos los acusados murieron durante el proceso. Unos acusados murieron durante el proceso.
+27,sub,algunos,Todos los trabajadores comienzan la huelga general en Lisboa. Algunos trabajadores comienzan la huelga general en Lisboa.
+27,whole,algunos,No todos los trabajadores comienzan la huelga general en Lisboa. Algunos trabajadores comienzan la huelga general en Lisboa.
+27,whole,unos,No todos los trabajadores comienzan la huelga general en Lisboa. Unos trabajadores comienzan la huelga general en Lisboa.
+28,sub,algunos,Todos los platos están apilados cuidadosamente en los estantes. Algunos platos están apilados cuidadosamente en los estantes.
+28,whole,algunos,No todos los platos están apilados cuidadosamente en los estantes. Algunos platos están apilados cuidadosamente en los estantes.
+28,whole,unos,No todos los platos están apilados cuidadosamente en los estantes. Unos platos están apilados cuidadosamente en los estantes.
+29,sub,algunos,Todos los jugadores acudieron a Coapa a recoger pertenencias. Algunos jugadores acudieron a Coapa a recoger pertenencias.
+29,whole,algunos,No todos los jugadores acudieron a Coapa a recoger pertenencias. Algunos jugadores acudieron a Coapa a recoger pertenencias.
+29,whole,unos,No todos los jugadores acudieron a Coapa a recoger pertenencias. Unos jugadores acudieron a Coapa a recoger pertenencias.
+30,sub,algunos,Todos los hombres sólo queremos ver el mundo arder. Algunos hombres sólo queremos ver el mundo arder.
+30,whole,algunos,No todos los hombres sólo queremos ver el mundo arder. Algunos hombres sólo queremos ver el mundo arder.
+30,whole,unos,No todos los hombres sólo queremos ver el mundo arder. Unos hombres sólo queremos ver el mundo arder.
+31,sub,algunos,Todos los pisos rojos tienen tapiadas las ventanas. Algunos pisos rojos tienen tapiadas las ventanas.
+31,whole,algunos,No todos los pisos rojos tienen tapiadas las ventanas. Algunos pisos rojos tienen tapiadas las ventanas.
+31,whole,unos,No todos los pisos rojos tienen tapiadas las ventanas. Unos pisos rojos tienen tapiadas las ventanas.
+32,sub,algunos,Todos los expertos criticaron severamente los experimentos. Algunos expertos criticaron severamente los experimentos.
+32,whole,algunos,No todos los expertos criticaron severamente los experimentos. Algunos expertos criticaron severamente los experimentos.
+32,whole,unos,No todos los expertos criticaron severamente los experimentos. Unos expertos criticaron severamente los experimentos.
+33,sub,algunos,Todos los deportistas lo tienen claro. Algunos deportistas lo tienen claro.
+33,whole,algunos,No todos los deportistas lo tienen claro. Algunos deportistas lo tienen claro.
+33,whole,unos,No todos los deportistas lo tienen claro. Unos deportistas lo tienen claro.
+34,sub,algunos,Todos los comentarios dejan mucho que desear. Algunos comentarios dejan mucho que desear.
+34,whole,algunos,No todos los comentarios dejan mucho que desear. Algunos comentarios dejan mucho que desear.
+34,whole,unos,No todos los comentarios dejan mucho que desear. Unos comentarios dejan mucho que desear.
+35,sub,algunos,Todos los ciudadanos manejan agendas realmente indignadas. Algunos ciudadanos manejan agendas realmente indignadas.
+35,whole,algunos,No todos los ciudadanos manejan agendas realmente indignadas. Algunos ciudadanos manejan agendas realmente indignadas.
+35,whole,unos,No todos los ciudadanos manejan agendas realmente indignadas. Unos ciudadanos manejan agendas realmente indignadas.
+36,sub,algunos,Todos los apartamentos han quedado calcinados. Algunos apartamentos han quedado calcinados.
+36,whole,algunos,No todos los apartamentos han quedado calcinados. Algunos apartamentos han quedado calcinados.
+36,whole,unos,No todos los apartamentos han quedado calcinados. Unos apartamentos han quedado calcinados.
+37,sub,algunos,Todos los adolescentes ondeaban banderas nacionales. Algunos adolescentes ondeaban banderas nacionales.
+37,whole,algunos,No todos los adolescentes ondeaban banderas nacionales. Algunos adolescentes ondeaban banderas nacionales.
+37,whole,unos,No todos los adolescentes ondeaban banderas nacionales. Unos adolescentes ondeaban banderas nacionales.
+38,sub,algunos,Todos los veteranos ven mucho descontrol. Algunos veteranos ven mucho descontrol.
+38,whole,algunos,No todos los veteranos ven mucho descontrol. Algunos veteranos ven mucho descontrol.
+38,whole,unos,No todos los veteranos ven mucho descontrol. Unos veteranos ven mucho descontrol.
+39,sub,algunos,Todos los soldados hablan de excitación. Algunos soldados hablan de excitación.
+39,whole,algunos,No todos los soldados hablan de excitación. Algunos soldados hablan de excitación.
+39,whole,unos,No todos los soldados hablan de excitación. Unos soldados hablan de excitación.
+40,sub,algunos,Todos los porteros nos ponían problemas para pasar. Algunos porteros nos ponían problemas para pasar.
+40,whole,algunos,No todos los porteros nos ponían problemas para pasar. Algunos porteros nos ponían problemas para pasar.
+40,whole,unos,No todos los porteros nos ponían problemas para pasar. Unos porteros nos ponían problemas para pasar.
+41,sub,algunos,Todos los planteles suspendieron las clases. Algunos planteles suspendieron las clases.
+41,whole,algunos,No todos los planteles suspendieron las clases. Algunos planteles suspendieron las clases.
+41,whole,unos,No todos los planteles suspendieron las clases. Unos planteles suspendieron las clases.
+42,sub,algunos,Todos los pescadores la habitan en verano. Algunos pescadores la habitan en verano.
+42,whole,algunos,No todos los pescadores la habitan en verano. Algunos pescadores la habitan en verano.
+42,whole,unos,No todos los pescadores la habitan en verano. Unos pescadores la habitan en verano.
+43,sub,algunos,Todos los opositores quieren cantar fraude. Algunos opositores quieren cantar fraude.
+43,whole,algunos,No todos los opositores quieren cantar fraude. Algunos opositores quieren cantar fraude.
+43,whole,unos,No todos los opositores quieren cantar fraude. Unos opositores quieren cantar fraude.
+44,sub,algunos,Todos los medicamentos pueden tener este efecto secundario. Algunos medicamentos pueden tener este efecto secundario.
+44,whole,algunos,No todos los medicamentos pueden tener este efecto secundario. Algunos medicamentos pueden tener este efecto secundario.
+44,whole,unos,No todos los medicamentos pueden tener este efecto secundario. Unos medicamentos pueden tener este efecto secundario.
+45,sub,algunos,Todos los jóvenes participaban en esa organización. Algunos jóvenes participaban en esa organización.
+45,whole,algunos,No todos los jóvenes participaban en esa organización. Algunos jóvenes participaban en esa organización.
+45,whole,unos,No todos los jóvenes participaban en esa organización. Unos jóvenes participaban en esa organización.
+46,sub,algunos,Todos los insectos vienen de visita a casa. Algunos insectos vienen de visita a casa.
+46,whole,algunos,No todos los insectos vienen de visita a casa. Algunos insectos vienen de visita a casa.
+46,whole,unos,No todos los insectos vienen de visita a casa. Unos insectos vienen de visita a casa.
+47,sub,algunos,Todos los familiares les acompañan en la sesión. Algunos familiares les acompañan en la sesión.
+47,whole,algunos,No todos los familiares les acompañan en la sesión. Algunos familiares les acompañan en la sesión.
+47,whole,unos,No todos los familiares les acompañan en la sesión. Unos familiares les acompañan en la sesión.
+48,sub,algunos,Todos los edificios suponen un alto peligro. Algunos edificios suponen un alto peligro.
+48,whole,algunos,No todos los edificios suponen un alto peligro. Algunos edificios suponen un alto peligro.
+48,whole,unos,No todos los edificios suponen un alto peligro. Unos edificios suponen un alto peligro.
+49,sub,algunos,Todos los agujeros han sido tapados. Algunos agujeros han sido tapados.
+49,whole,algunos,No todos los agujeros han sido tapados. Algunos agujeros han sido tapados.
+49,whole,unos,No todos los agujeros han sido tapados. Unos agujeros han sido tapados.
+50,sub,algunos,"Todos los columnistas lo han descrito como ""corrosivo"". Algunos columnistas lo han descrito como ""corrosivo""."
+50,whole,algunos,"No todos los columnistas lo han descrito como ""corrosivo"". Algunos columnistas lo han descrito como ""corrosivo""."
+50,whole,unos,"No todos los columnistas lo han descrito como ""corrosivo"". Unos columnistas lo han descrito como ""corrosivo""."
+51,sub,algunos,Todos los coches han pitado. Algunos coches han pitado.
+51,whole,algunos,No todos los coches han pitado. Algunos coches han pitado.
+51,whole,unos,No todos los coches han pitado. Unos coches han pitado.
+52,sub,algunos,Todos los cadáveres presentaban señales de tortura. Algunos cadáveres presentaban señales de tortura.
+52,whole,algunos,No todos los cadáveres presentaban señales de tortura. Algunos cadáveres presentaban señales de tortura.
+52,whole,unos,No todos los cadáveres presentaban señales de tortura. Unos cadáveres presentaban señales de tortura.
+53,sub,algunos,Todos los animales tienen una suerte. Algunos animales tienen una suerte.
+53,whole,algunos,No todos los animales tienen una suerte. Algunos animales tienen una suerte.
+53,whole,unos,No todos los animales tienen una suerte. Unos animales tienen una suerte.
+54,sub,algunos,Todos los francotiradores han entregado sus armas. Algunos francotiradores han entregado sus armas.
+54,whole,algunos,No todos los francotiradores han entregado sus armas. Algunos francotiradores han entregado sus armas.
+54,whole,unos,No todos los francotiradores han entregado sus armas. Unos francotiradores han entregado sus armas.
+55,sub,algunos,Todos los legisladores salientes han cometido barbaridades. Algunos legisladores salientes han cometido barbaridades.
+55,whole,algunos,No todos los legisladores salientes han cometido barbaridades. Algunos legisladores salientes han cometido barbaridades.
+55,whole,unos,No todos los legisladores salientes han cometido barbaridades. Unos legisladores salientes han cometido barbaridades.
+56,sub,algunos,Todos los amigos tienen sus sospechas. Algunos amigos tienen sus sospechas.
+56,whole,algunos,No todos los amigos tienen sus sospechas. Algunos amigos tienen sus sospechas.
+56,whole,unos,No todos los amigos tienen sus sospechas. Unos amigos tienen sus sospechas.
+57,sub,algunos,Todos los ex funcionarios están siendo enjuiciados. Algunos ex funcionarios están siendo enjuiciados.
+57,whole,algunos,No todos los ex funcionarios están siendo enjuiciados. Algunos ex funcionarios están siendo enjuiciados.
+57,whole,unos,No todos los ex funcionarios están siendo enjuiciados. Unos ex funcionarios están siendo enjuiciados.
+58,sub,algunos,Todos los niños la pasaron mal. Algunos niños la pasaron mal.
+58,whole,algunos,No todos los niños la pasaron mal. Algunos niños la pasaron mal.
+58,whole,unos,No todos los niños la pasaron mal. Unos niños la pasaron mal.
+59,sub,algunos,Todos los nenes aparecieron con los ojos colgando. Algunos nenes aparecieron con los ojos colgando.
+59,whole,algunos,No todos los nenes aparecieron con los ojos colgando. Algunos nenes aparecieron con los ojos colgando.
+59,whole,unos,No todos los nenes aparecieron con los ojos colgando. Unos nenes aparecieron con los ojos colgando.
+60,sub,algunos,Todos los académicos comparten este criterio. Algunos académicos comparten este criterio.
+60,whole,algunos,No todos los académicos comparten este criterio. Algunos académicos comparten este criterio.
+60,whole,unos,No todos los académicos comparten este criterio. Unos académicos comparten este criterio.
+61,sub,algunos,Todos los funcionarios no están de acuerdo. Algunos funcionarios no están de acuerdo.
+61,whole,algunos,No todos los funcionarios no están de acuerdo. Algunos funcionarios no están de acuerdo.
+61,whole,unos,No todos los funcionarios no están de acuerdo. Unos funcionarios no están de acuerdo.
+62,sub,algunos,Todos los jóvenes enmascarados saquearon varias tiendas. Algunos jóvenes enmascarados saquearon varias tiendas.
+62,whole,algunos,No todos los jóvenes enmascarados saquearon varias tiendas. Algunos jóvenes enmascarados saquearon varias tiendas.
+62,whole,unos,No todos los jóvenes enmascarados saquearon varias tiendas. Unos jóvenes enmascarados saquearon varias tiendas.
+63,sub,algunos,Todos los amigos en Costa Rica están inquietos. Algunos amigos en Costa Rica están inquietos.
+63,whole,algunos,No todos los amigos en Costa Rica están inquietos. Algunos amigos en Costa Rica están inquietos.
+63,whole,unos,No todos los amigos en Costa Rica están inquietos. Unos amigos en Costa Rica están inquietos.
+64,sub,algunos,Todos los amigos no ayudaban. Algunos amigos no ayudaban.
+64,whole,algunos,No todos los amigos no ayudaban. Algunos amigos no ayudaban.
+64,whole,unos,No todos los amigos no ayudaban. Unos amigos no ayudaban.
+65,sub,algunos,Todos los presos políticos serán puestos en libertad. Algunos presos políticos serán puestos en libertad.
+65,whole,algunos,No todos los presos políticos serán puestos en libertad. Algunos presos políticos serán puestos en libertad.
+65,whole,unos,No todos los presos políticos serán puestos en libertad. Unos presos políticos serán puestos en libertad.
+66,sub,algunos,Todos los pepenadores hicieron su agosto. Algunos pepenadores hicieron su agosto.
+66,whole,algunos,No todos los pepenadores hicieron su agosto. Algunos pepenadores hicieron su agosto.
+66,whole,unos,No todos los pepenadores hicieron su agosto. Unos pepenadores hicieron su agosto.
+67,sub,algunos,Todos los analistas así lo estiman. Algunos analistas así lo estiman.
+67,whole,algunos,No todos los analistas así lo estiman. Algunos analistas así lo estiman.
+67,whole,unos,No todos los analistas así lo estiman. Unos analistas así lo estiman.
+68,sub,algunos,Todos los enfermos requieren hasta de 15 cirugías. Algunos enfermos requieren hasta de 15 cirugías.
+68,whole,algunos,No todos los enfermos requieren hasta de 15 cirugías. Algunos enfermos requieren hasta de 15 cirugías.
+68,whole,unos,No todos los enfermos requieren hasta de 15 cirugías. Unos enfermos requieren hasta de 15 cirugías.
+69,sub,algunos,Todos los analistas especularon. Algunos analistas especularon.
+69,whole,algunos,No todos los analistas especularon. Algunos analistas especularon.
+69,whole,unos,No todos los analistas especularon. Unos analistas especularon.
+70,sub,algunos,Todos los lugareños no concilian el sueño. Algunos lugareños no concilian el sueño.
+70,whole,algunos,No todos los lugareños no concilian el sueño. Algunos lugareños no concilian el sueño.
+70,whole,unos,No todos los lugareños no concilian el sueño. Unos lugareños no concilian el sueño.
+71,sub,algunos,Todos los ministros apoyaron a Chaves. Algunos ministros apoyaron a Chaves.
+71,whole,algunos,No todos los ministros apoyaron a Chaves. Algunos ministros apoyaron a Chaves.
+71,whole,unos,No todos los ministros apoyaron a Chaves. Unos ministros apoyaron a Chaves.
+72,sub,algunos,Todos los críticos gastronómicos deberían animarse. Algunos críticos gastronómicos deberían animarse.
+72,whole,algunos,No todos los críticos gastronómicos deberían animarse. Algunos críticos gastronómicos deberían animarse.
+72,whole,unos,No todos los críticos gastronómicos deberían animarse. Unos críticos gastronómicos deberían animarse.
+73,sub,algunos,Todos los lesionados fueron rematados. Algunos lesionados fueron rematados.
+73,whole,algunos,No todos los lesionados fueron rematados. Algunos lesionados fueron rematados.
+73,whole,unos,No todos los lesionados fueron rematados. Unos lesionados fueron rematados.
+74,sub,algunos,Todos los vendedores incluyen sus correos electrónicos. Algunos vendedores incluyen sus correos electrónicos.
+74,whole,algunos,No todos los vendedores incluyen sus correos electrónicos. Algunos vendedores incluyen sus correos electrónicos.
+74,whole,unos,No todos los vendedores incluyen sus correos electrónicos. Unos vendedores incluyen sus correos electrónicos.
+75,sub,algunos,Todos los científicos hablan de 100.000 barriles diarios. Algunos científicos hablan de 100.000 barriles diarios.
+75,whole,algunos,No todos los científicos hablan de 100.000 barriles diarios. Algunos científicos hablan de 100.000 barriles diarios.
+75,whole,unos,No todos los científicos hablan de 100.000 barriles diarios. Unos científicos hablan de 100.000 barriles diarios.
+76,sub,algunos,Todos los militares han sido condenados. Algunos militares han sido condenados.
+76,whole,algunos,No todos los militares han sido condenados. Algunos militares han sido condenados.
+76,whole,unos,No todos los militares han sido condenados. Unos militares han sido condenados.
+77,sub,algunos,Todos los vecinos la acompañan para contenerla. Algunos vecinos la acompañan para contenerla.
+77,whole,algunos,No todos los vecinos la acompañan para contenerla. Algunos vecinos la acompañan para contenerla.
+77,whole,unos,No todos los vecinos la acompañan para contenerla. Unos vecinos la acompañan para contenerla.
+78,sub,algunos,Todos los futbolistas están en deuda. Algunos futbolistas están en deuda.
+78,whole,algunos,No todos los futbolistas están en deuda. Algunos futbolistas están en deuda.
+78,whole,unos,No todos los futbolistas están en deuda. Unos futbolistas están en deuda.
+79,sub,algunos,Todos los fotógrafos confiesan su impotencia. Algunos fotógrafos confiesan su impotencia.
+79,whole,algunos,No todos los fotógrafos confiesan su impotencia. Algunos fotógrafos confiesan su impotencia.
+79,whole,unos,No todos los fotógrafos confiesan su impotencia. Unos fotógrafos confiesan su impotencia.
+80,sub,algunos,Todos los marineros optaron por quedarse. Algunos marineros optaron por quedarse.
+80,whole,algunos,No todos los marineros optaron por quedarse. Algunos marineros optaron por quedarse.
+80,whole,unos,No todos los marineros optaron por quedarse. Unos marineros optaron por quedarse.
+81,sub,algunos,Todos los artistas invitados iniciaron el concierto. Algunos artistas invitados iniciaron el concierto.
+81,whole,algunos,No todos los artistas invitados iniciaron el concierto. Algunos artistas invitados iniciaron el concierto.
+81,whole,unos,No todos los artistas invitados iniciaron el concierto. Unos artistas invitados iniciaron el concierto.
+82,sub,algunos,Todos los jueces las han rechazado. Algunos jueces las han rechazado.
+82,whole,algunos,No todos los jueces las han rechazado. Algunos jueces las han rechazado.
+82,whole,unos,No todos los jueces las han rechazado. Unos jueces las han rechazado.
+83,sub,algunos,Todos los críticos dicen: 'Me he reído mucho.' Algunos críticos dicen: 'Me he reído mucho.'
+83,whole,algunos,No todos los críticos dicen: 'Me he reído mucho.' Algunos críticos dicen: 'Me he reído mucho.'
+83,whole,unos,No todos los críticos dicen: 'Me he reído mucho.' Unos críticos dicen: 'Me he reído mucho.'
+84,sub,algunos,Todos los juguetes seguían en sus cajas. Algunos juguetes seguían en sus cajas.
+84,whole,algunos,No todos los juguetes seguían en sus cajas. Algunos juguetes seguían en sus cajas.
+84,whole,unos,No todos los juguetes seguían en sus cajas. Unos juguetes seguían en sus cajas.
+85,sub,algunos,Todos los autores nos ayudan. Algunos autores nos ayudan.
+85,whole,algunos,No todos los autores nos ayudan. Algunos autores nos ayudan.
+85,whole,unos,No todos los autores nos ayudan. Unos autores nos ayudan.
+86,sub,algunos,Todos los publicistas objetaron la ética del procedimiento. Algunos publicistas objetaron la ética del procedimiento.
+86,whole,algunos,No todos los publicistas objetaron la ética del procedimiento. Algunos publicistas objetaron la ética del procedimiento.
+86,whole,unos,No todos los publicistas objetaron la ética del procedimiento. Unos publicistas objetaron la ética del procedimiento.
+87,sub,algunos,Todos los jóvenes venden drogas sentados en sillas. Algunos jóvenes venden drogas sentados en sillas.
+87,whole,algunos,No todos los jóvenes venden drogas sentados en sillas. Algunos jóvenes venden drogas sentados en sillas.
+87,whole,unos,No todos los jóvenes venden drogas sentados en sillas. Unos jóvenes venden drogas sentados en sillas.
+88,sub,algunos,Todos los pacientes duermen. Algunos pacientes duermen.
+88,whole,algunos,No todos los pacientes duermen. Algunos pacientes duermen.
+88,whole,unos,No todos los pacientes duermen. Unos pacientes duermen.
+89,sub,algunos,Todos los antropólogos les secundan. Algunos antropólogos les secundan.
+89,whole,algunos,No todos los antropólogos les secundan. Algunos antropólogos les secundan.
+89,whole,unos,No todos los antropólogos les secundan. Unos antropólogos les secundan.
+90,sub,algunos,Todos los analistas dudan de ello. Algunos analistas dudan de ello.
+90,whole,algunos,No todos los analistas dudan de ello. Algunos analistas dudan de ello.
+90,whole,unos,No todos los analistas dudan de ello. Unos analistas dudan de ello.
+91,sub,algunos,Todos los expertos han aumentado esa crítica negativa. Algunos expertos han aumentado esa crítica negativa.
+91,whole,algunos,No todos los expertos han aumentado esa crítica negativa. Algunos expertos han aumentado esa crítica negativa.
+91,whole,unos,No todos los expertos han aumentado esa crítica negativa. Unos expertos han aumentado esa crítica negativa.
+92,sub,algunos,Todos los hombres me llamaban traidor. Algunos hombres me llamaban traidor.
+92,whole,algunos,No todos los hombres me llamaban traidor. Algunos hombres me llamaban traidor.
+92,whole,unos,No todos los hombres me llamaban traidor. Unos hombres me llamaban traidor.
+93,sub,algunos,Todos los empresarios hacían ayer una broma. Algunos empresarios hacían ayer una broma.
+93,whole,algunos,No todos los empresarios hacían ayer una broma. Algunos empresarios hacían ayer una broma.
+93,whole,unos,No todos los empresarios hacían ayer una broma. Unos empresarios hacían ayer una broma.
+94,sub,algunos,Todos los doctores poseen ese extraño sentido. Algunos doctores poseen ese extraño sentido.
+94,whole,algunos,No todos los doctores poseen ese extraño sentido. Algunos doctores poseen ese extraño sentido.
+94,whole,unos,No todos los doctores poseen ese extraño sentido. Unos doctores poseen ese extraño sentido.
+95,sub,algunos,Todos los jueces no concuerdan. Algunos jueces no concuerdan.
+95,whole,algunos,No todos los jueces no concuerdan. Algunos jueces no concuerdan.
+95,whole,unos,No todos los jueces no concuerdan. Unos jueces no concuerdan.
+96,sub,algunos,Todos los científicos discrepan con esa evaluación. Algunos científicos discrepan con esa evaluación.
+96,whole,algunos,No todos los científicos discrepan con esa evaluación. Algunos científicos discrepan con esa evaluación.
+96,whole,unos,No todos los científicos discrepan con esa evaluación. Unos científicos discrepan con esa evaluación.
+97,sub,algunos,Todos los familiares las esperan. Algunos familiares las esperan.
+97,whole,algunos,No todos los familiares las esperan. Algunos familiares las esperan.
+97,whole,unos,No todos los familiares las esperan. Unos familiares las esperan.
+98,sub,algunos,Todos los estadounidenses contemplan también esa protección. Algunos estadounidenses contemplan también esa protección.
+98,whole,algunos,No todos los estadounidenses contemplan también esa protección. Algunos estadounidenses contemplan también esa protección.
+98,whole,unos,No todos los estadounidenses contemplan también esa protección. Unos estadounidenses contemplan también esa protección.
+99,sub,algunos,Todos los asistentes aplaudieron. Algunos asistentes aplaudieron.
+99,whole,algunos,No todos los asistentes aplaudieron. Algunos asistentes aplaudieron.
+99,whole,unos,No todos los asistentes aplaudieron. Unos asistentes aplaudieron.
+100,sub,algunos,Todos los residentes parecían decididos a quedarse. Algunos residentes parecían decididos a quedarse.
+100,whole,algunos,No todos los residentes parecían decididos a quedarse. Algunos residentes parecían decididos a quedarse.
+100,whole,unos,No todos los residentes parecían decididos a quedarse. Unos residentes parecían decididos a quedarse.
+101,sub,algunos,Todos los analistas habían estimado una pérdida trimestral. Algunos analistas habían estimado una pérdida trimestral.
+101,whole,algunos,No todos los analistas habían estimado una pérdida trimestral. Algunos analistas habían estimado una pérdida trimestral.
+101,whole,unos,No todos los analistas habían estimado una pérdida trimestral. Unos analistas habían estimado una pérdida trimestral.
+102,sub,algunos,Todos los jugadores están amenazando con no presentarse. Algunos jugadores están amenazando con no presentarse.
+102,whole,algunos,No todos los jugadores están amenazando con no presentarse. Algunos jugadores están amenazando con no presentarse.
+102,whole,unos,No todos los jugadores están amenazando con no presentarse. Unos jugadores están amenazando con no presentarse.
+103,sub,algunos,Todos los políticos podrán respirar tranquilos. Algunos políticos podrán respirar tranquilos.
+103,whole,algunos,No todos los políticos podrán respirar tranquilos. Algunos políticos podrán respirar tranquilos.
+103,whole,unos,No todos los políticos podrán respirar tranquilos. Unos políticos podrán respirar tranquilos.
+104,sub,algunos,Todos los residentes que protestaron fueron detenidos. Algunos residentes que protestaron fueron detenidos.
+104,whole,algunos,No todos los residentes que protestaron fueron detenidos. Algunos residentes que protestaron fueron detenidos.
+104,whole,unos,No todos los residentes que protestaron fueron detenidos. Unos residentes que protestaron fueron detenidos.
+105,sub,algunos,Todos los colegas tuvieron dificultades. Algunos colegas tuvieron dificultades.
+105,whole,algunos,No todos los colegas tuvieron dificultades. Algunos colegas tuvieron dificultades.
+105,whole,unos,No todos los colegas tuvieron dificultades. Unos colegas tuvieron dificultades.
+106,sub,algunos,Todos los compañeros le consideran un vendido. Algunos compañeros le consideran un vendido.
+106,whole,algunos,No todos los compañeros le consideran un vendido. Algunos compañeros le consideran un vendido.
+106,whole,unos,No todos los compañeros le consideran un vendido. Unos compañeros le consideran un vendido.
+107,sub,algunos,Todos los analistas están menos seguros. Algunos analistas están menos seguros.
+107,whole,algunos,No todos los analistas están menos seguros. Algunos analistas están menos seguros.
+107,whole,unos,No todos los analistas están menos seguros. Unos analistas están menos seguros.
+108,sub,algunos,Todos los hispanos sienten este rechazo en carne propia. Algunos hispanos sienten este rechazo en carne propia.
+108,whole,algunos,No todos los hispanos sienten este rechazo en carne propia. Algunos hispanos sienten este rechazo en carne propia.
+108,whole,unos,No todos los hispanos sienten este rechazo en carne propia. Unos hispanos sienten este rechazo en carne propia.
+109,sub,algunos,Todos los periodistas dijeron que no iba a torear. Algunos periodistas dijeron que no iba a torear.
+109,whole,algunos,No todos los periodistas dijeron que no iba a torear. Algunos periodistas dijeron que no iba a torear.
+109,whole,unos,No todos los periodistas dijeron que no iba a torear. Unos periodistas dijeron que no iba a torear.
+110,sub,algunos,Todos los pobladores preferían usar los verdaderos nombres. Algunos pobladores preferían usar los verdaderos nombres.
+110,whole,algunos,No todos los pobladores preferían usar los verdaderos nombres. Algunos pobladores preferían usar los verdaderos nombres.
+110,whole,unos,No todos los pobladores preferían usar los verdaderos nombres. Unos pobladores preferían usar los verdaderos nombres.
+111,sub,algunos,Todos los pacientes están muy enfermos. Algunos pacientes están muy enfermos.
+111,whole,algunos,No todos los pacientes están muy enfermos. Algunos pacientes están muy enfermos.
+111,whole,unos,No todos los pacientes están muy enfermos. Unos pacientes están muy enfermos.
+112,sub,algunos,Todos los vecinos intentan comprender. Algunos vecinos intentan comprender.
+112,whole,algunos,No todos los vecinos intentan comprender. Algunos vecinos intentan comprender.
+112,whole,unos,No todos los vecinos intentan comprender. Unos vecinos intentan comprender.
+113,sub,algunos,Todos los mosquitos transmiten el paludismo al hombre. Algunos mosquitos transmiten el paludismo al hombre.
+113,whole,algunos,No todos los mosquitos transmiten el paludismo al hombre. Algunos mosquitos transmiten el paludismo al hombre.
+113,whole,unos,No todos los mosquitos transmiten el paludismo al hombre. Unos mosquitos transmiten el paludismo al hombre.
+114,sub,algunos,Todos los vehículos han quedado para el desguace. Algunos vehículos han quedado para el desguace.
+114,whole,algunos,No todos los vehículos han quedado para el desguace. Algunos vehículos han quedado para el desguace.
+114,whole,unos,No todos los vehículos han quedado para el desguace. Unos vehículos han quedado para el desguace.
+115,sub,algunos,Todos los infantes comparten sin necesidad de enseñarles. Algunos infantes comparten sin necesidad de enseñarles.
+115,whole,algunos,No todos los infantes comparten sin necesidad de enseñarles. Algunos infantes comparten sin necesidad de enseñarles.
+115,whole,unos,No todos los infantes comparten sin necesidad de enseñarles. Unos infantes comparten sin necesidad de enseñarles.
+116,sub,algunos,Todos los proyectos han sido desechados. Algunos proyectos han sido desechados.
+116,whole,algunos,No todos los proyectos han sido desechados. Algunos proyectos han sido desechados.
+116,whole,unos,No todos los proyectos han sido desechados. Unos proyectos han sido desechados.
+117,sub,algunos,Todos los jugadores tuvieron problemas. Algunos jugadores tuvieron problemas.
+117,whole,algunos,No todos los jugadores tuvieron problemas. Algunos jugadores tuvieron problemas.
+117,whole,unos,No todos los jugadores tuvieron problemas. Unos jugadores tuvieron problemas.
+118,sub,algunos,Todos los conductores han expresado sus quejas. Algunos conductores han expresado sus quejas.
+118,whole,algunos,No todos los conductores han expresado sus quejas. Algunos conductores han expresado sus quejas.
+118,whole,unos,No todos los conductores han expresado sus quejas. Unos conductores han expresado sus quejas.
+119,sub,algunos,Todos los magistrados ayer intentaron responder la pregunta. Algunos magistrados ayer intentaron responder la pregunta.
+119,whole,algunos,No todos los magistrados ayer intentaron responder la pregunta. Algunos magistrados ayer intentaron responder la pregunta.
+119,whole,unos,No todos los magistrados ayer intentaron responder la pregunta. Unos magistrados ayer intentaron responder la pregunta.
+120,sub,algunos,Todos los escritores catalanes deciden escribir en castellano. Algunos escritores catalanes deciden escribir en castellano.
+120,whole,algunos,No todos los escritores catalanes deciden escribir en castellano. Algunos escritores catalanes deciden escribir en castellano.
+120,whole,unos,No todos los escritores catalanes deciden escribir en castellano. Unos escritores catalanes deciden escribir en castellano.
+121,sub,algunos,Todos los casos han resultado ser mortales. Algunos casos han resultado ser mortales.
+121,whole,algunos,No todos los casos han resultado ser mortales. Algunos casos han resultado ser mortales.
+121,whole,unos,No todos los casos han resultado ser mortales. Unos casos han resultado ser mortales.
+122,sub,algunos,Todos los palestinos lo consideraron profundamente corrupto. Algunos palestinos lo consideraron profundamente corrupto.
+122,whole,algunos,No todos los palestinos lo consideraron profundamente corrupto. Algunos palestinos lo consideraron profundamente corrupto.
+122,whole,unos,No todos los palestinos lo consideraron profundamente corrupto. Unos palestinos lo consideraron profundamente corrupto.
+123,sub,algunos,Todos los locales comerciales denunciaron destrozos. Algunos locales comerciales denunciaron destrozos.
+123,whole,algunos,No todos los locales comerciales denunciaron destrozos. Algunos locales comerciales denunciaron destrozos.
+123,whole,unos,No todos los locales comerciales denunciaron destrozos. Unos locales comerciales denunciaron destrozos.
+124,sub,algunos,Todos los agentes lloraban. Algunos agentes lloraban.
+124,whole,algunos,No todos los agentes lloraban. Algunos agentes lloraban.
+124,whole,unos,No todos los agentes lloraban. Unos agentes lloraban.
+125,sub,algunos,Todos los niños resultaron heridos en los brazos. Algunos niños resultaron heridos en los brazos.
+125,whole,algunos,No todos los niños resultaron heridos en los brazos. Algunos niños resultaron heridos en los brazos.
+125,whole,unos,No todos los niños resultaron heridos en los brazos. Unos niños resultaron heridos en los brazos.
+126,sub,algunos,Todos los trabajadores lo responsabilizaron por esta muerte. Algunos trabajadores lo responsabilizaron por esta muerte.
+126,whole,algunos,No todos los trabajadores lo responsabilizaron por esta muerte. Algunos trabajadores lo responsabilizaron por esta muerte.
+126,whole,unos,No todos los trabajadores lo responsabilizaron por esta muerte. Unos trabajadores lo responsabilizaron por esta muerte.
+127,sub,algunos,Todos los sectores permanecen a oscuras. Algunos sectores permanecen a oscuras.
+127,whole,algunos,No todos los sectores permanecen a oscuras. Algunos sectores permanecen a oscuras.
+127,whole,unos,No todos los sectores permanecen a oscuras. Unos sectores permanecen a oscuras.
+128,sub,algunos,Todos los negociadores esperan avances. Algunos negociadores esperan avances.
+128,whole,algunos,No todos los negociadores esperan avances. Algunos negociadores esperan avances.
+128,whole,unos,No todos los negociadores esperan avances. Unos negociadores esperan avances.
+129,sub,algunos,Todos los opositores lo condenaban. Algunos opositores lo condenaban.
+129,whole,algunos,No todos los opositores lo condenaban. Algunos opositores lo condenaban.
+129,whole,unos,No todos los opositores lo condenaban. Unos opositores lo condenaban.
+130,sub,algunos,Todos los jugadores cuestionaron el estilo del entrenador. Algunos jugadores cuestionaron el estilo del entrenador.
+130,whole,algunos,No todos los jugadores cuestionaron el estilo del entrenador. Algunos jugadores cuestionaron el estilo del entrenador.
+130,whole,unos,No todos los jugadores cuestionaron el estilo del entrenador. Unos jugadores cuestionaron el estilo del entrenador.
+131,sub,algunos,Todos los expertos dicen que no tiene validez. Algunos expertos dicen que no tiene validez.
+131,whole,algunos,No todos los expertos dicen que no tiene validez. Algunos expertos dicen que no tiene validez.
+131,whole,unos,No todos los expertos dicen que no tiene validez. Unos expertos dicen que no tiene validez.
+132,sub,algunos,Tres de cuatro pacientes necesitarán cirugías en casos extremos. Algunos pacientes necesitarán cirugías en casos extremos.
+132,whole,algunos,Cuatro de cuatro pacientes necesitarán cirugías en casos extremos. Algunos pacientes necesitarán cirugías en casos extremos.
+132,whole,unos,Cuatro de cuatro pacientes necesitarán cirugías en casos extremos. Unos pacientes necesitarán cirugías en casos extremos.
