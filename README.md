@@ -1,5 +1,5 @@
 # Title: Pragmatic Inference of Scalar Implicatures in Spanis by Large Language Models
-## Student: Weyhe, alexander
+## Student: Weyhe, Alexander
 ## Supervisors: Zymla, Mark-Matthias & Bade, Nadine
 
 This Masters thesis investigates the capability of Large Language Models (LLM) to infer scalar implicatures in Spanish. In doing so, three different experiments were conducted:
