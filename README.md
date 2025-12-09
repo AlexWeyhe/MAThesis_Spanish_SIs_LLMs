@@ -11,4 +11,4 @@ This Masters thesis investigates the capability of Large Language Models (LLM) t
 The data used for the experiments was constructed from the *Wortschatz Leipzig Corpus* (Goldhahn et al. 2012) and annotated to add context and target sentences.
 
 ## References
-Goldhahn D et al. (2012). Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages. Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC‘12).
+Goldhahn D et al. (2012). Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages. *Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC‘12)*.
