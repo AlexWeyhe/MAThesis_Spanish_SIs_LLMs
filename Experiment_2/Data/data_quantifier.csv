@@ -1,0 +1,529 @@
+item,context,determiner,premise,hypothesis
+1,sub,algunos,Algunos tramos tienen tráfico denso.,No todos los tramos tienen tráfico denso.
+1,sub,unos,Unos tramos tienen tráfico denso.,No todos los tramos tienen tráfico denso.
+1,whole,algunos,Algunos tramos tienen tráfico denso.,Todos los tramos tienen tráfico denso.
+1,whole,unos,Unos tramos tienen tráfico denso.,Todos los tramos tienen tráfico denso.
+2,sub,algunos,Algunos regidores opinan que nada pasará.,No todos los regidores opinan que nada pasará.
+2,sub,unos,Unos regidores opinan que nada pasará.,No todos los regidores opinan que nada pasará.
+2,whole,algunos,Algunos regidores opinan que nada pasará.,Todos los regidores opinan que nada pasará.
+2,whole,unos,Unos regidores opinan que nada pasará.,Todos los regidores opinan que nada pasará.
+3,sub,algunos,Algunos precedentes no ayudan.,No todos los precedentes no ayudan.
+3,sub,unos,Unos precedentes no ayudan.,No todos los precedentes no ayudan.
+3,whole,algunos,Algunos precedentes no ayudan.,Todos los precedentes no ayudan.
+3,whole,unos,Unos precedentes no ayudan.,Todos los precedentes no ayudan.
+4,sub,algunos,Algunos periódicos acusaron al gobierno de “matarla”.,No todos los periódicos acusaron al gobierno de “matarla”.
+4,sub,unos,Unos periódicos acusaron al gobierno de “matarla”.,No todos los periódicos acusaron al gobierno de “matarla”.
+4,whole,algunos,Algunos periódicos acusaron al gobierno de “matarla”.,Todos los periódicos acusaron al gobierno de “matarla”.
+4,whole,unos,Unos periódicos acusaron al gobierno de “matarla”.,Todos los periódicos acusaron al gobierno de “matarla”.
+5,sub,algunos,Algunos pasajeros han sido evacuados por precaución.,No todos los pasajeros han sido evacuados por precaución.
+5,sub,unos,Unos pasajeros han sido evacuados por precaución.,No todos los pasajeros han sido evacuados por precaución.
+5,whole,algunos,Algunos pasajeros han sido evacuados por precaución.,Todos los pasajeros han sido evacuados por precaución.
+5,whole,unos,Unos pasajeros han sido evacuados por precaución.,Todos los pasajeros han sido evacuados por precaución.
+6,sub,algunos,Algunos partidos políticos lo citaron.,No todos los partidos políticos lo citaron.
+6,sub,unos,Unos partidos políticos lo citaron.,No todos los partidos políticos lo citaron.
+6,whole,algunos,Algunos partidos políticos lo citaron.,Todos los partidos políticos lo citaron.
+6,whole,unos,Unos partidos políticos lo citaron.,Todos los partidos políticos lo citaron.
+7,sub,algunos,Algunos hombres nacen póstumos.,No todos los hombres nacen póstumos.
+7,sub,unos,Unos hombres nacen póstumos.,No todos los hombres nacen póstumos.
+7,whole,algunos,Algunos hombres nacen póstumos.,Todos los hombres nacen póstumos.
+7,whole,unos,Unos hombres nacen póstumos.,Todos los hombres nacen póstumos.
+8,sub,algunos,Algunos gremios no quieren dialogar.,No todos los gremios no quieren dialogar.
+8,sub,unos,Unos gremios no quieren dialogar.,No todos los gremios no quieren dialogar.
+8,whole,algunos,Algunos gremios no quieren dialogar.,Todos los gremios no quieren dialogar.
+8,whole,unos,Unos gremios no quieren dialogar.,Todos los gremios no quieren dialogar.
+9,sub,algunos,Algunos ejemplos exponen el cuadro.,No todos los ejemplos exponen el cuadro.
+9,sub,unos,Unos ejemplos exponen el cuadro.,No todos los ejemplos exponen el cuadro.
+9,whole,algunos,Algunos ejemplos exponen el cuadro.,Todos los ejemplos exponen el cuadro.
+9,whole,unos,Unos ejemplos exponen el cuadro.,Todos los ejemplos exponen el cuadro.
+10,sub,algunos,Algunos dispositivos brillan en la oscuridad.,No todos los dispositivos brillan en la oscuridad.
+10,sub,unos,Unos dispositivos brillan en la oscuridad.,No todos los dispositivos brillan en la oscuridad.
+10,whole,algunos,Algunos dispositivos brillan en la oscuridad.,Todos los dispositivos brillan en la oscuridad.
+10,whole,unos,Unos dispositivos brillan en la oscuridad.,Todos los dispositivos brillan en la oscuridad.
+11,sub,algunos,Algunos diplomáticos occidentales participaron.,No todos los diplomáticos occidentales participaron.
+11,sub,unos,Unos diplomáticos occidentales participaron.,No todos los diplomáticos occidentales participaron.
+11,whole,algunos,Algunos diplomáticos occidentales participaron.,Todos los diplomáticos occidentales participaron.
+11,whole,unos,Unos diplomáticos occidentales participaron.,Todos los diplomáticos occidentales participaron.
+12,sub,algunos,Algunos ciudadanos suben a mirar más alto.,No todos los ciudadanos suben a mirar más alto.
+12,sub,unos,Unos ciudadanos suben a mirar más alto.,No todos los ciudadanos suben a mirar más alto.
+12,whole,algunos,Algunos ciudadanos suben a mirar más alto.,Todos los ciudadanos suben a mirar más alto.
+12,whole,unos,Unos ciudadanos suben a mirar más alto.,Todos los ciudadanos suben a mirar más alto.
+13,sub,algunos,Algunos chicos terminaron lastimados.,No todos los chicos terminaron lastimados.
+13,sub,unos,Unos chicos terminaron lastimados.,No todos los chicos terminaron lastimados.
+13,whole,algunos,Algunos chicos terminaron lastimados.,Todos los chicos terminaron lastimados.
+13,whole,unos,Unos chicos terminaron lastimados.,Todos los chicos terminaron lastimados.
+14,sub,algunos,Algunos campamentos prometen disciplina militar.,No todos los campamentos prometen disciplina militar.
+14,sub,unos,Unos campamentos prometen disciplina militar.,No todos los campamentos prometen disciplina militar.
+14,whole,algunos,Algunos campamentos prometen disciplina militar.,Todos los campamentos prometen disciplina militar.
+14,whole,unos,Unos campamentos prometen disciplina militar.,Todos los campamentos prometen disciplina militar.
+15,sub,algunos,Algunos agentes de policía resultaron lesionados.,No todos los agentes de policía resultaron lesionados.
+15,sub,unos,Unos agentes de policía resultaron lesionados.,No todos los agentes de policía resultaron lesionados.
+15,whole,algunos,Algunos agentes de policía resultaron lesionados.,Todos los agentes de policía resultaron lesionados.
+15,whole,unos,Unos agentes de policía resultaron lesionados.,Todos los agentes de policía resultaron lesionados.
+16,sub,algunos,Algunos dirigentes sindicales quieren vivir en el anarquismo.,No todos los dirigentes sindicales quieren vivir en el anarquismo.
+16,sub,unos,Unos dirigentes sindicales quieren vivir en el anarquismo.,No todos los dirigentes sindicales quieren vivir en el anarquismo.
+16,whole,algunos,Algunos dirigentes sindicales quieren vivir en el anarquismo.,Todos los dirigentes sindicales quieren vivir en el anarquismo.
+16,whole,unos,Unos dirigentes sindicales quieren vivir en el anarquismo.,Todos los dirigentes sindicales quieren vivir en el anarquismo.
+17,sub,algunos,Algunos sectores del instituto fueron remodelados.,No todos los sectores del instituto fueron remodelados.
+17,sub,unos,Unos sectores del instituto fueron remodelados.,No todos los sectores del instituto fueron remodelados.
+17,whole,algunos,Algunos sectores del instituto fueron remodelados.,Todos los sectores del instituto fueron remodelados.
+17,whole,unos,Unos sectores del instituto fueron remodelados.,Todos los sectores del instituto fueron remodelados.
+18,sub,algunos,Algunos políticos dijeron que todos estaban comprados.,No todos los políticos dijeron que todos estaban comprados.
+18,sub,unos,Unos políticos dijeron que todos estaban comprados.,No todos los políticos dijeron que todos estaban comprados.
+18,whole,algunos,Algunos políticos dijeron que todos estaban comprados.,Todos los políticos dijeron que todos estaban comprados.
+18,whole,unos,Unos políticos dijeron que todos estaban comprados.,Todos los políticos dijeron que todos estaban comprados.
+19,sub,algunos,Algunos legisladores han adoptado una postura similar.,No todos los legisladores han adoptado una postura similar.
+19,sub,unos,Unos legisladores han adoptado una postura similar.,No todos los legisladores han adoptado una postura similar.
+19,whole,algunos,Algunos legisladores han adoptado una postura similar.,Todos los legisladores han adoptado una postura similar.
+19,whole,unos,Unos legisladores han adoptado una postura similar.,Todos los legisladores han adoptado una postura similar.
+20,sub,algunos,Algunos ex jugadores británicos criticaron a Marcelo.,No todos los ex jugadores británicos criticaron a Marcelo.
+20,sub,unos,Unos ex jugadores británicos criticaron a Marcelo.,No todos los ex jugadores británicos criticaron a Marcelo.
+20,whole,algunos,Algunos ex jugadores británicos criticaron a Marcelo.,Todos los ex jugadores británicos criticaron a Marcelo.
+20,whole,unos,Unos ex jugadores británicos criticaron a Marcelo.,Todos los ex jugadores británicos criticaron a Marcelo.
+21,sub,algunos,Algunos establecimientos ofrecen financiar las compras.,No todos los establecimientos ofrecen financiar las compras.
+21,sub,unos,Unos establecimientos ofrecen financiar las compras.,No todos los establecimientos ofrecen financiar las compras.
+21,whole,algunos,Algunos establecimientos ofrecen financiar las compras.,Todos los establecimientos ofrecen financiar las compras.
+21,whole,unos,Unos establecimientos ofrecen financiar las compras.,Todos los establecimientos ofrecen financiar las compras.
+22,sub,algunos,Algunos concejales prefieren seguir tal como están.,No todos los concejales prefieren seguir tal como están.
+22,sub,unos,Unos concejales prefieren seguir tal como están.,No todos los concejales prefieren seguir tal como están.
+22,whole,algunos,Algunos concejales prefieren seguir tal como están.,Todos los concejales prefieren seguir tal como están.
+22,whole,unos,Unos concejales prefieren seguir tal como están.,Todos los concejales prefieren seguir tal como están.
+23,sub,algunos,Algunos aviones tienen una tecnología prácticamente olímpica,No todos los aviones tienen una tecnología prácticamente olímpica
+23,sub,unos,Unos aviones tienen una tecnología prácticamente olímpica,No todos los aviones tienen una tecnología prácticamente olímpica
+23,whole,algunos,Algunos aviones tienen una tecnología prácticamente olímpica,Todos los aviones tienen una tecnología prácticamente olímpica
+23,whole,unos,Unos aviones tienen una tecnología prácticamente olímpica,Todos los aviones tienen una tecnología prácticamente olímpica
+24,sub,algunos,Algunos agentes cumplen penas de cárcel.,No todos los agentes cumplen penas de cárcel.
+24,sub,unos,Unos agentes cumplen penas de cárcel.,No todos los agentes cumplen penas de cárcel.
+24,whole,algunos,Algunos agentes cumplen penas de cárcel.,Todos los agentes cumplen penas de cárcel.
+24,whole,unos,Unos agentes cumplen penas de cárcel.,Todos los agentes cumplen penas de cárcel.
+25,sub,algunos,Algunos aficionados evidenciaron su enfado.,No todos los aficionados evidenciaron su enfado.
+25,sub,unos,Unos aficionados evidenciaron su enfado.,No todos los aficionados evidenciaron su enfado.
+25,whole,algunos,Algunos aficionados evidenciaron su enfado.,Todos los aficionados evidenciaron su enfado.
+25,whole,unos,Unos aficionados evidenciaron su enfado.,Todos los aficionados evidenciaron su enfado.
+26,sub,algunos,Algunos acusados murieron durante el proceso.,No todos los acusados murieron durante el proceso.
+26,sub,unos,Unos acusados murieron durante el proceso.,No todos los acusados murieron durante el proceso.
+26,whole,algunos,Algunos acusados murieron durante el proceso.,Todos los acusados murieron durante el proceso.
+26,whole,unos,Unos acusados murieron durante el proceso.,Todos los acusados murieron durante el proceso.
+27,sub,algunos,Algunos trabajadores comienzan la huelga general en Lisboa.,No todos los trabajadores comienzan la huelga general en Lisboa.
+27,sub,unos,Unos trabajadores comienzan la huelga general en Lisboa.,No todos los trabajadores comienzan la huelga general en Lisboa.
+27,whole,algunos,Algunos trabajadores comienzan la huelga general en Lisboa.,Todos los trabajadores comienzan la huelga general en Lisboa.
+27,whole,unos,Unos trabajadores comienzan la huelga general en Lisboa.,Todos los trabajadores comienzan la huelga general en Lisboa.
+28,sub,algunos,Algunos platos están apilados cuidadosamente en los estantes.,No todos los platos están apilados cuidadosamente en los estantes.
+28,sub,unos,Unos platos están apilados cuidadosamente en los estantes.,No todos los platos están apilados cuidadosamente en los estantes.
+28,whole,algunos,Algunos platos están apilados cuidadosamente en los estantes.,Todos los platos están apilados cuidadosamente en los estantes.
+28,whole,unos,Unos platos están apilados cuidadosamente en los estantes.,Todos los platos están apilados cuidadosamente en los estantes.
+29,sub,algunos,Algunos jugadores acudieron a Coapa a recoger pertenencias.,No todos los jugadores acudieron a Coapa a recoger pertenencias.
+29,sub,unos,Unos jugadores acudieron a Coapa a recoger pertenencias.,No todos los jugadores acudieron a Coapa a recoger pertenencias.
+29,whole,algunos,Algunos jugadores acudieron a Coapa a recoger pertenencias.,Todos los jugadores acudieron a Coapa a recoger pertenencias.
+29,whole,unos,Unos jugadores acudieron a Coapa a recoger pertenencias.,Todos los jugadores acudieron a Coapa a recoger pertenencias.
+30,sub,algunos,Algunos hombres sólo queremos ver el mundo arder.,No todos los hombres sólo queremos ver el mundo arder.
+30,sub,unos,Unos hombres sólo queremos ver el mundo arder.,No todos los hombres sólo queremos ver el mundo arder.
+30,whole,algunos,Algunos hombres sólo queremos ver el mundo arder.,Todos los hombres sólo queremos ver el mundo arder.
+30,whole,unos,Unos hombres sólo queremos ver el mundo arder.,Todos los hombres sólo queremos ver el mundo arder.
+31,sub,algunos,Algunos pisos rojos tienen tapiadas las ventanas.,No todos los pisos rojos tienen tapiadas las ventanas.
+31,sub,unos,Unos pisos rojos tienen tapiadas las ventanas.,No todos los pisos rojos tienen tapiadas las ventanas.
+31,whole,algunos,Algunos pisos rojos tienen tapiadas las ventanas.,Todos los pisos rojos tienen tapiadas las ventanas.
+31,whole,unos,Unos pisos rojos tienen tapiadas las ventanas.,Todos los pisos rojos tienen tapiadas las ventanas.
+32,sub,algunos,Algunos expertos criticaron severamente los experimentos.,No todos los expertos criticaron severamente los experimentos.
+32,sub,unos,Unos expertos criticaron severamente los experimentos.,No todos los expertos criticaron severamente los experimentos.
+32,whole,algunos,Algunos expertos criticaron severamente los experimentos.,Todos los expertos criticaron severamente los experimentos.
+32,whole,unos,Unos expertos criticaron severamente los experimentos.,Todos los expertos criticaron severamente los experimentos.
+33,sub,algunos,Algunos deportistas lo tienen claro.,No todos los deportistas lo tienen claro.
+33,sub,unos,Unos deportistas lo tienen claro.,No todos los deportistas lo tienen claro.
+33,whole,algunos,Algunos deportistas lo tienen claro.,Todos los deportistas lo tienen claro.
+33,whole,unos,Unos deportistas lo tienen claro.,Todos los deportistas lo tienen claro.
+34,sub,algunos,Algunos comentarios dejan mucho que desear.,No todos los comentarios dejan mucho que desear.
+34,sub,unos,Unos comentarios dejan mucho que desear.,No todos los comentarios dejan mucho que desear.
+34,whole,algunos,Algunos comentarios dejan mucho que desear.,Todos los comentarios dejan mucho que desear.
+34,whole,unos,Unos comentarios dejan mucho que desear.,Todos los comentarios dejan mucho que desear.
+35,sub,algunos,Algunos ciudadanos manejan agendas realmente indignadas.,No todos los ciudadanos manejan agendas realmente indignadas.
+35,sub,unos,Unos ciudadanos manejan agendas realmente indignadas.,No todos los ciudadanos manejan agendas realmente indignadas.
+35,whole,algunos,Algunos ciudadanos manejan agendas realmente indignadas.,Todos los ciudadanos manejan agendas realmente indignadas.
+35,whole,unos,Unos ciudadanos manejan agendas realmente indignadas.,Todos los ciudadanos manejan agendas realmente indignadas.
+36,sub,algunos,Algunos apartamentos han quedado calcinados.,No todos los apartamentos han quedado calcinados.
+36,sub,unos,Unos apartamentos han quedado calcinados.,No todos los apartamentos han quedado calcinados.
+36,whole,algunos,Algunos apartamentos han quedado calcinados.,Todos los apartamentos han quedado calcinados.
+36,whole,unos,Unos apartamentos han quedado calcinados.,Todos los apartamentos han quedado calcinados.
+37,sub,algunos,Algunos adolescentes ondeaban banderas nacionales.,No todos los adolescentes ondeaban banderas nacionales.
+37,sub,unos,Unos adolescentes ondeaban banderas nacionales.,No todos los adolescentes ondeaban banderas nacionales.
+37,whole,algunos,Algunos adolescentes ondeaban banderas nacionales.,Todos los adolescentes ondeaban banderas nacionales.
+37,whole,unos,Unos adolescentes ondeaban banderas nacionales.,Todos los adolescentes ondeaban banderas nacionales.
+38,sub,algunos,Algunos veteranos ven mucho descontrol.,No todos los veteranos ven mucho descontrol.
+38,sub,unos,Unos veteranos ven mucho descontrol.,No todos los veteranos ven mucho descontrol.
+38,whole,algunos,Algunos veteranos ven mucho descontrol.,Todos los veteranos ven mucho descontrol.
+38,whole,unos,Unos veteranos ven mucho descontrol.,Todos los veteranos ven mucho descontrol.
+39,sub,algunos,Algunos soldados hablan de excitación.,No todos los soldados hablan de excitación.
+39,sub,unos,Unos soldados hablan de excitación.,No todos los soldados hablan de excitación.
+39,whole,algunos,Algunos soldados hablan de excitación.,Todos los soldados hablan de excitación.
+39,whole,unos,Unos soldados hablan de excitación.,Todos los soldados hablan de excitación.
+40,sub,algunos,Algunos porteros nos ponían problemas para pasar.,No todos los porteros nos ponían problemas para pasar.
+40,sub,unos,Unos porteros nos ponían problemas para pasar.,No todos los porteros nos ponían problemas para pasar.
+40,whole,algunos,Algunos porteros nos ponían problemas para pasar.,Todos los porteros nos ponían problemas para pasar.
+40,whole,unos,Unos porteros nos ponían problemas para pasar.,Todos los porteros nos ponían problemas para pasar.
+41,sub,algunos,Algunos planteles suspendieron las clases.,No todos los planteles suspendieron las clases.
+41,sub,unos,Unos planteles suspendieron las clases.,No todos los planteles suspendieron las clases.
+41,whole,algunos,Algunos planteles suspendieron las clases.,Todos los planteles suspendieron las clases.
+41,whole,unos,Unos planteles suspendieron las clases.,Todos los planteles suspendieron las clases.
+42,sub,algunos,Algunos pescadores la habitan en verano.,No todos los pescadores la habitan en verano.
+42,sub,unos,Unos pescadores la habitan en verano.,No todos los pescadores la habitan en verano.
+42,whole,algunos,Algunos pescadores la habitan en verano.,Todos los pescadores la habitan en verano.
+42,whole,unos,Unos pescadores la habitan en verano.,Todos los pescadores la habitan en verano.
+43,sub,algunos,Algunos opositores quieren cantar fraude.,No todos los opositores quieren cantar fraude.
+43,sub,unos,Unos opositores quieren cantar fraude.,No todos los opositores quieren cantar fraude.
+43,whole,algunos,Algunos opositores quieren cantar fraude.,Todos los opositores quieren cantar fraude.
+43,whole,unos,Unos opositores quieren cantar fraude.,Todos los opositores quieren cantar fraude.
+44,sub,algunos,Algunos medicamentos pueden tener este efecto secundario.,No todos los medicamentos pueden tener este efecto secundario.
+44,sub,unos,Unos medicamentos pueden tener este efecto secundario.,No todos los medicamentos pueden tener este efecto secundario.
+44,whole,algunos,Algunos medicamentos pueden tener este efecto secundario.,Todos los medicamentos pueden tener este efecto secundario.
+44,whole,unos,Unos medicamentos pueden tener este efecto secundario.,Todos los medicamentos pueden tener este efecto secundario.
+45,sub,algunos,Algunos jóvenes participaban en esa organización.,No todos los jóvenes participaban en esa organización.
+45,sub,unos,Unos jóvenes participaban en esa organización.,No todos los jóvenes participaban en esa organización.
+45,whole,algunos,Algunos jóvenes participaban en esa organización.,Todos los jóvenes participaban en esa organización.
+45,whole,unos,Unos jóvenes participaban en esa organización.,Todos los jóvenes participaban en esa organización.
+46,sub,algunos,Algunos insectos vienen de visita a casa.,No todos los insectos vienen de visita a casa.
+46,sub,unos,Unos insectos vienen de visita a casa.,No todos los insectos vienen de visita a casa.
+46,whole,algunos,Algunos insectos vienen de visita a casa.,Todos los insectos vienen de visita a casa.
+46,whole,unos,Unos insectos vienen de visita a casa.,Todos los insectos vienen de visita a casa.
+47,sub,algunos,Algunos familiares les acompañan en la sesión.,No todos los familiares les acompañan en la sesión.
+47,sub,unos,Unos familiares les acompañan en la sesión.,No todos los familiares les acompañan en la sesión.
+47,whole,algunos,Algunos familiares les acompañan en la sesión.,Todos los familiares les acompañan en la sesión.
+47,whole,unos,Unos familiares les acompañan en la sesión.,Todos los familiares les acompañan en la sesión.
+48,sub,algunos,Algunos edificios suponen un alto peligro.,No todos los edificios suponen un alto peligro.
+48,sub,unos,Unos edificios suponen un alto peligro.,No todos los edificios suponen un alto peligro.
+48,whole,algunos,Algunos edificios suponen un alto peligro.,Todos los edificios suponen un alto peligro.
+48,whole,unos,Unos edificios suponen un alto peligro.,Todos los edificios suponen un alto peligro.
+49,sub,algunos,Algunos agujeros han sido tapados.,No todos los agujeros han sido tapados.
+49,sub,unos,Unos agujeros han sido tapados.,No todos los agujeros han sido tapados.
+49,whole,algunos,Algunos agujeros han sido tapados.,Todos los agujeros han sido tapados.
+49,whole,unos,Unos agujeros han sido tapados.,Todos los agujeros han sido tapados.
+50,sub,algunos,"Algunos columnistas lo han descrito como ""corrosivo"".","No todos los columnistas lo han descrito como ""corrosivo""."
+50,sub,unos,"Unos columnistas lo han descrito como ""corrosivo"".","No todos los columnistas lo han descrito como ""corrosivo""."
+50,whole,algunos,"Algunos columnistas lo han descrito como ""corrosivo"".","Todos los columnistas lo han descrito como ""corrosivo""."
+50,whole,unos,"Unos columnistas lo han descrito como ""corrosivo"".","Todos los columnistas lo han descrito como ""corrosivo""."
+51,sub,algunos,Algunos coches han pitado.,No todos los coches han pitado.
+51,sub,unos,Unos coches han pitado.,No todos los coches han pitado.
+51,whole,algunos,Algunos coches han pitado.,Todos los coches han pitado.
+51,whole,unos,Unos coches han pitado.,Todos los coches han pitado.
+52,sub,algunos,Algunos cadáveres presentaban señales de tortura.,No todos los cadáveres presentaban señales de tortura.
+52,sub,unos,Unos cadáveres presentaban señales de tortura.,No todos los cadáveres presentaban señales de tortura.
+52,whole,algunos,Algunos cadáveres presentaban señales de tortura.,Todos los cadáveres presentaban señales de tortura.
+52,whole,unos,Unos cadáveres presentaban señales de tortura.,Todos los cadáveres presentaban señales de tortura.
+53,sub,algunos,Algunos animales tienen una suerte.,No todos los animales tienen una suerte.
+53,sub,unos,Unos animales tienen una suerte.,No todos los animales tienen una suerte.
+53,whole,algunos,Algunos animales tienen una suerte.,Todos los animales tienen una suerte.
+53,whole,unos,Unos animales tienen una suerte.,Todos los animales tienen una suerte.
+54,sub,algunos,Algunos francotiradores han entregado sus armas.,No todos los francotiradores han entregado sus armas.
+54,sub,unos,Unos francotiradores han entregado sus armas.,No todos los francotiradores han entregado sus armas.
+54,whole,algunos,Algunos francotiradores han entregado sus armas.,Todos los francotiradores han entregado sus armas.
+54,whole,unos,Unos francotiradores han entregado sus armas.,Todos los francotiradores han entregado sus armas.
+55,sub,algunos,Algunos legisladores salientes han cometido barbaridades.,No todos los legisladores salientes han cometido barbaridades.
+55,sub,unos,Unos legisladores salientes han cometido barbaridades.,No todos los legisladores salientes han cometido barbaridades.
+55,whole,algunos,Algunos legisladores salientes han cometido barbaridades.,Todos los legisladores salientes han cometido barbaridades.
+55,whole,unos,Unos legisladores salientes han cometido barbaridades.,Todos los legisladores salientes han cometido barbaridades.
+56,sub,algunos,Algunos amigos tienen sus sospechas.,No todos los amigos tienen sus sospechas.
+56,sub,unos,Unos amigos tienen sus sospechas.,No todos los amigos tienen sus sospechas.
+56,whole,algunos,Algunos amigos tienen sus sospechas.,Todos los amigos tienen sus sospechas.
+56,whole,unos,Unos amigos tienen sus sospechas.,Todos los amigos tienen sus sospechas.
+57,sub,algunos,Algunos ex funcionarios están siendo enjuiciados.,No todos los ex funcionarios están siendo enjuiciados.
+57,sub,unos,Unos ex funcionarios están siendo enjuiciados.,No todos los ex funcionarios están siendo enjuiciados.
+57,whole,algunos,Algunos ex funcionarios están siendo enjuiciados.,Todos los ex funcionarios están siendo enjuiciados.
+57,whole,unos,Unos ex funcionarios están siendo enjuiciados.,Todos los ex funcionarios están siendo enjuiciados.
+58,sub,algunos,Algunos niños la pasaron mal.,No todos los niños la pasaron mal.
+58,sub,unos,Unos niños la pasaron mal.,No todos los niños la pasaron mal.
+58,whole,algunos,Algunos niños la pasaron mal.,Todos los niños la pasaron mal.
+58,whole,unos,Unos niños la pasaron mal.,Todos los niños la pasaron mal.
+59,sub,algunos,Algunos nenes aparecieron con los ojos colgando.,No todos los nenes aparecieron con los ojos colgando.
+59,sub,unos,Unos nenes aparecieron con los ojos colgando.,No todos los nenes aparecieron con los ojos colgando.
+59,whole,algunos,Algunos nenes aparecieron con los ojos colgando.,Todos los nenes aparecieron con los ojos colgando.
+59,whole,unos,Unos nenes aparecieron con los ojos colgando.,Todos los nenes aparecieron con los ojos colgando.
+60,sub,algunos,Algunos académicos comparten este criterio.,No todos los académicos comparten este criterio.
+60,sub,unos,Unos académicos comparten este criterio.,No todos los académicos comparten este criterio.
+60,whole,algunos,Algunos académicos comparten este criterio.,Todos los académicos comparten este criterio.
+60,whole,unos,Unos académicos comparten este criterio.,Todos los académicos comparten este criterio.
+61,sub,algunos,Algunos funcionarios no están de acuerdo.,No todos los funcionarios no están de acuerdo.
+61,sub,unos,Unos funcionarios no están de acuerdo.,No todos los funcionarios no están de acuerdo.
+61,whole,algunos,Algunos funcionarios no están de acuerdo.,Todos los funcionarios no están de acuerdo.
+61,whole,unos,Unos funcionarios no están de acuerdo.,Todos los funcionarios no están de acuerdo.
+62,sub,algunos,Algunos jóvenes enmascarados saquearon varias tiendas.,No todos los jóvenes enmascarados saquearon varias tiendas.
+62,sub,unos,Unos jóvenes enmascarados saquearon varias tiendas.,No todos los jóvenes enmascarados saquearon varias tiendas.
+62,whole,algunos,Algunos jóvenes enmascarados saquearon varias tiendas.,Todos los jóvenes enmascarados saquearon varias tiendas.
+62,whole,unos,Unos jóvenes enmascarados saquearon varias tiendas.,Todos los jóvenes enmascarados saquearon varias tiendas.
+63,sub,algunos,Algunos amigos en Costa Rica están inquietos.,No todos los amigos en Costa Rica están inquietos.
+63,sub,unos,Unos amigos en Costa Rica están inquietos.,No todos los amigos en Costa Rica están inquietos.
+63,whole,algunos,Algunos amigos en Costa Rica están inquietos.,Todos los amigos en Costa Rica están inquietos.
+63,whole,unos,Unos amigos en Costa Rica están inquietos.,Todos los amigos en Costa Rica están inquietos.
+64,sub,algunos,Algunos amigos no ayudaban.,No todos los amigos no ayudaban.
+64,sub,unos,Unos amigos no ayudaban.,No todos los amigos no ayudaban.
+64,whole,algunos,Algunos amigos no ayudaban.,Todos los amigos no ayudaban.
+64,whole,unos,Unos amigos no ayudaban.,Todos los amigos no ayudaban.
+65,sub,algunos,Algunos presos políticos serán puestos en libertad.,No todos los presos políticos serán puestos en libertad.
+65,sub,unos,Unos presos políticos serán puestos en libertad.,No todos los presos políticos serán puestos en libertad.
+65,whole,algunos,Algunos presos políticos serán puestos en libertad.,Todos los presos políticos serán puestos en libertad.
+65,whole,unos,Unos presos políticos serán puestos en libertad.,Todos los presos políticos serán puestos en libertad.
+66,sub,algunos,Algunos pepenadores hicieron su agosto.,No todos los pepenadores hicieron su agosto.
+66,sub,unos,Unos pepenadores hicieron su agosto.,No todos los pepenadores hicieron su agosto.
+66,whole,algunos,Algunos pepenadores hicieron su agosto.,Todos los pepenadores hicieron su agosto.
+66,whole,unos,Unos pepenadores hicieron su agosto.,Todos los pepenadores hicieron su agosto.
+67,sub,algunos,Algunos analistas así lo estiman.,No todos los analistas así lo estiman.
+67,sub,unos,Unos analistas así lo estiman.,No todos los analistas así lo estiman.
+67,whole,algunos,Algunos analistas así lo estiman.,Todos los analistas así lo estiman.
+67,whole,unos,Unos analistas así lo estiman.,Todos los analistas así lo estiman.
+68,sub,algunos,Algunos enfermos requieren hasta de 15 cirugías.,No todos los enfermos requieren hasta de 15 cirugías.
+68,sub,unos,Unos enfermos requieren hasta de 15 cirugías.,No todos los enfermos requieren hasta de 15 cirugías.
+68,whole,algunos,Algunos enfermos requieren hasta de 15 cirugías.,Todos los enfermos requieren hasta de 15 cirugías.
+68,whole,unos,Unos enfermos requieren hasta de 15 cirugías.,Todos los enfermos requieren hasta de 15 cirugías.
+69,sub,algunos,Algunos analistas especularon.,No todos los analistas especularon.
+69,sub,unos,Unos analistas especularon.,No todos los analistas especularon.
+69,whole,algunos,Algunos analistas especularon.,Todos los analistas especularon.
+69,whole,unos,Unos analistas especularon.,Todos los analistas especularon.
+70,sub,algunos,Algunos lugareños no concilian el sueño.,No todos los lugareños no concilian el sueño.
+70,sub,unos,Unos lugareños no concilian el sueño.,No todos los lugareños no concilian el sueño.
+70,whole,algunos,Algunos lugareños no concilian el sueño.,Todos los lugareños no concilian el sueño.
+70,whole,unos,Unos lugareños no concilian el sueño.,Todos los lugareños no concilian el sueño.
+71,sub,algunos,Algunos ministros apoyaron a Chaves.,No todos los ministros apoyaron a Chaves.
+71,sub,unos,Unos ministros apoyaron a Chaves.,No todos los ministros apoyaron a Chaves.
+71,whole,algunos,Algunos ministros apoyaron a Chaves.,Todos los ministros apoyaron a Chaves.
+71,whole,unos,Unos ministros apoyaron a Chaves.,Todos los ministros apoyaron a Chaves.
+72,sub,algunos,Algunos críticos gastronómicos deberían animarse.,No todos los críticos gastronómicos deberían animarse.
+72,sub,unos,Unos críticos gastronómicos deberían animarse.,No todos los críticos gastronómicos deberían animarse.
+72,whole,algunos,Algunos críticos gastronómicos deberían animarse.,Todos los críticos gastronómicos deberían animarse.
+72,whole,unos,Unos críticos gastronómicos deberían animarse.,Todos los críticos gastronómicos deberían animarse.
+73,sub,algunos,Algunos lesionados fueron rematados.,No todos los lesionados fueron rematados.
+73,sub,unos,Unos lesionados fueron rematados.,No todos los lesionados fueron rematados.
+73,whole,algunos,Algunos lesionados fueron rematados.,Todos los lesionados fueron rematados.
+73,whole,unos,Unos lesionados fueron rematados.,Todos los lesionados fueron rematados.
+74,sub,algunos,Algunos vendedores incluyen sus correos electrónicos.,No todos los vendedores incluyen sus correos electrónicos.
+74,sub,unos,Unos vendedores incluyen sus correos electrónicos.,No todos los vendedores incluyen sus correos electrónicos.
+74,whole,algunos,Algunos vendedores incluyen sus correos electrónicos.,Todos los vendedores incluyen sus correos electrónicos.
+74,whole,unos,Unos vendedores incluyen sus correos electrónicos.,Todos los vendedores incluyen sus correos electrónicos.
+75,sub,algunos,Algunos científicos hablan de 100.000 barriles diarios.,No todos los científicos hablan de 100.000 barriles diarios.
+75,sub,unos,Unos científicos hablan de 100.000 barriles diarios.,No todos los científicos hablan de 100.000 barriles diarios.
+75,whole,algunos,Algunos científicos hablan de 100.000 barriles diarios.,Todos los científicos hablan de 100.000 barriles diarios.
+75,whole,unos,Unos científicos hablan de 100.000 barriles diarios.,Todos los científicos hablan de 100.000 barriles diarios.
+76,sub,algunos,Algunos militares han sido condenados.,No todos los militares han sido condenados.
+76,sub,unos,Unos militares han sido condenados.,No todos los militares han sido condenados.
+76,whole,algunos,Algunos militares han sido condenados.,Todos los militares han sido condenados.
+76,whole,unos,Unos militares han sido condenados.,Todos los militares han sido condenados.
+77,sub,algunos,Algunos vecinos la acompañan para contenerla.,No todos los vecinos la acompañan para contenerla.
+77,sub,unos,Unos vecinos la acompañan para contenerla.,No todos los vecinos la acompañan para contenerla.
+77,whole,algunos,Algunos vecinos la acompañan para contenerla.,Todos los vecinos la acompañan para contenerla.
+77,whole,unos,Unos vecinos la acompañan para contenerla.,Todos los vecinos la acompañan para contenerla.
+78,sub,algunos,Algunos futbolistas están en deuda.,No todos los futbolistas están en deuda.
+78,sub,unos,Unos futbolistas están en deuda.,No todos los futbolistas están en deuda.
+78,whole,algunos,Algunos futbolistas están en deuda.,Todos los futbolistas están en deuda.
+78,whole,unos,Unos futbolistas están en deuda.,Todos los futbolistas están en deuda.
+79,sub,algunos,Algunos fotógrafos confiesan su impotencia.,No todos los fotógrafos confiesan su impotencia.
+79,sub,unos,Unos fotógrafos confiesan su impotencia.,No todos los fotógrafos confiesan su impotencia.
+79,whole,algunos,Algunos fotógrafos confiesan su impotencia.,Todos los fotógrafos confiesan su impotencia.
+79,whole,unos,Unos fotógrafos confiesan su impotencia.,Todos los fotógrafos confiesan su impotencia.
+80,sub,algunos,Algunos marineros optaron por quedarse.,No todos los marineros optaron por quedarse.
+80,sub,unos,Unos marineros optaron por quedarse.,No todos los marineros optaron por quedarse.
+80,whole,algunos,Algunos marineros optaron por quedarse.,Todos los marineros optaron por quedarse.
+80,whole,unos,Unos marineros optaron por quedarse.,Todos los marineros optaron por quedarse.
+81,sub,algunos,Algunos artistas invitados iniciaron el concierto.,No todos los artistas invitados iniciaron el concierto.
+81,sub,unos,Unos artistas invitados iniciaron el concierto.,No todos los artistas invitados iniciaron el concierto.
+81,whole,algunos,Algunos artistas invitados iniciaron el concierto.,Todos los artistas invitados iniciaron el concierto.
+81,whole,unos,Unos artistas invitados iniciaron el concierto.,Todos los artistas invitados iniciaron el concierto.
+82,sub,algunos,Algunos jueces las han rechazado.,No todos los jueces las han rechazado.
+82,sub,unos,Unos jueces las han rechazado.,No todos los jueces las han rechazado.
+82,whole,algunos,Algunos jueces las han rechazado.,Todos los jueces las han rechazado.
+82,whole,unos,Unos jueces las han rechazado.,Todos los jueces las han rechazado.
+83,sub,algunos,Algunos críticos dicen: 'Me he reído mucho.',No todos los críticos dicen: 'Me he reído mucho.'
+83,sub,unos,Unos críticos dicen: 'Me he reído mucho.',No todos los críticos dicen: 'Me he reído mucho.'
+83,whole,algunos,Algunos críticos dicen: 'Me he reído mucho.',Todos los críticos dicen: 'Me he reído mucho.'
+83,whole,unos,Unos críticos dicen: 'Me he reído mucho.',Todos los críticos dicen: 'Me he reído mucho.'
+84,sub,algunos,Algunos juguetes seguían en sus cajas.,No todos los juguetes seguían en sus cajas.
+84,sub,unos,Unos juguetes seguían en sus cajas.,No todos los juguetes seguían en sus cajas.
+84,whole,algunos,Algunos juguetes seguían en sus cajas.,Todos los juguetes seguían en sus cajas.
+84,whole,unos,Unos juguetes seguían en sus cajas.,Todos los juguetes seguían en sus cajas.
+85,sub,algunos,Algunos autores nos ayudan.,No todos los autores nos ayudan.
+85,sub,unos,Unos autores nos ayudan.,No todos los autores nos ayudan.
+85,whole,algunos,Algunos autores nos ayudan.,Todos los autores nos ayudan.
+85,whole,unos,Unos autores nos ayudan.,Todos los autores nos ayudan.
+86,sub,algunos,Algunos publicistas objetaron la ética del procedimiento.,No todos los publicistas objetaron la ética del procedimiento.
+86,sub,unos,Unos publicistas objetaron la ética del procedimiento.,No todos los publicistas objetaron la ética del procedimiento.
+86,whole,algunos,Algunos publicistas objetaron la ética del procedimiento.,Todos los publicistas objetaron la ética del procedimiento.
+86,whole,unos,Unos publicistas objetaron la ética del procedimiento.,Todos los publicistas objetaron la ética del procedimiento.
+87,sub,algunos,Algunos jóvenes venden drogas sentados en sillas.,No todos los jóvenes venden drogas sentados en sillas.
+87,sub,unos,Unos jóvenes venden drogas sentados en sillas.,No todos los jóvenes venden drogas sentados en sillas.
+87,whole,algunos,Algunos jóvenes venden drogas sentados en sillas.,Todos los jóvenes venden drogas sentados en sillas.
+87,whole,unos,Unos jóvenes venden drogas sentados en sillas.,Todos los jóvenes venden drogas sentados en sillas.
+88,sub,algunos,Algunos pacientes duermen.,No todos los pacientes duermen.
+88,sub,unos,Unos pacientes duermen.,No todos los pacientes duermen.
+88,whole,algunos,Algunos pacientes duermen.,Todos los pacientes duermen.
+88,whole,unos,Unos pacientes duermen.,Todos los pacientes duermen.
+89,sub,algunos,Algunos antropólogos les secundan.,No todos los antropólogos les secundan.
+89,sub,unos,Unos antropólogos les secundan.,No todos los antropólogos les secundan.
+89,whole,algunos,Algunos antropólogos les secundan.,Todos los antropólogos les secundan.
+89,whole,unos,Unos antropólogos les secundan.,Todos los antropólogos les secundan.
+90,sub,algunos,Algunos analistas dudan de ello.,No todos los analistas dudan de ello.
+90,sub,unos,Unos analistas dudan de ello.,No todos los analistas dudan de ello.
+90,whole,algunos,Algunos analistas dudan de ello.,Todos los analistas dudan de ello.
+90,whole,unos,Unos analistas dudan de ello.,Todos los analistas dudan de ello.
+91,sub,algunos,Algunos expertos han aumentado esa crítica negativa.,No todos los expertos han aumentado esa crítica negativa.
+91,sub,unos,Unos expertos han aumentado esa crítica negativa.,No todos los expertos han aumentado esa crítica negativa.
+91,whole,algunos,Algunos expertos han aumentado esa crítica negativa.,Todos los expertos han aumentado esa crítica negativa.
+91,whole,unos,Unos expertos han aumentado esa crítica negativa.,Todos los expertos han aumentado esa crítica negativa.
+92,sub,algunos,Algunos hombres me llamaban traidor.,No todos los hombres me llamaban traidor.
+92,sub,unos,Unos hombres me llamaban traidor.,No todos los hombres me llamaban traidor.
+92,whole,algunos,Algunos hombres me llamaban traidor.,Todos los hombres me llamaban traidor.
+92,whole,unos,Unos hombres me llamaban traidor.,Todos los hombres me llamaban traidor.
+93,sub,algunos,Algunos empresarios hacían ayer una broma.,No todos los empresarios hacían ayer una broma.
+93,sub,unos,Unos empresarios hacían ayer una broma.,No todos los empresarios hacían ayer una broma.
+93,whole,algunos,Algunos empresarios hacían ayer una broma.,Todos los empresarios hacían ayer una broma.
+93,whole,unos,Unos empresarios hacían ayer una broma.,Todos los empresarios hacían ayer una broma.
+94,sub,algunos,Algunos doctores poseen ese extraño sentido.,No todos los doctores poseen ese extraño sentido.
+94,sub,unos,Unos doctores poseen ese extraño sentido.,No todos los doctores poseen ese extraño sentido.
+94,whole,algunos,Algunos doctores poseen ese extraño sentido.,Todos los doctores poseen ese extraño sentido.
+94,whole,unos,Unos doctores poseen ese extraño sentido.,Todos los doctores poseen ese extraño sentido.
+95,sub,algunos,Algunos jueces no concuerdan.,No todos los jueces no concuerdan.
+95,sub,unos,Unos jueces no concuerdan.,No todos los jueces no concuerdan.
+95,whole,algunos,Algunos jueces no concuerdan.,Todos los jueces no concuerdan.
+95,whole,unos,Unos jueces no concuerdan.,Todos los jueces no concuerdan.
+96,sub,algunos,Algunos científicos discrepan con esa evaluación.,No todos los científicos discrepan con esa evaluación.
+96,sub,unos,Unos científicos discrepan con esa evaluación.,No todos los científicos discrepan con esa evaluación.
+96,whole,algunos,Algunos científicos discrepan con esa evaluación.,Todos los científicos discrepan con esa evaluación.
+96,whole,unos,Unos científicos discrepan con esa evaluación.,Todos los científicos discrepan con esa evaluación.
+97,sub,algunos,Algunos familiares las esperan.,No todos los familiares las esperan.
+97,sub,unos,Unos familiares las esperan.,No todos los familiares las esperan.
+97,whole,algunos,Algunos familiares las esperan.,Todos los familiares las esperan.
+97,whole,unos,Unos familiares las esperan.,Todos los familiares las esperan.
+98,sub,algunos,Algunos estadounidenses contemplan también esa protección.,No todos los estadounidenses contemplan también esa protección.
+98,sub,unos,Unos estadounidenses contemplan también esa protección.,No todos los estadounidenses contemplan también esa protección.
+98,whole,algunos,Algunos estadounidenses contemplan también esa protección.,Todos los estadounidenses contemplan también esa protección.
+98,whole,unos,Unos estadounidenses contemplan también esa protección.,Todos los estadounidenses contemplan también esa protección.
+99,sub,algunos,Algunos asistentes aplaudieron.,No todos los asistentes aplaudieron.
+99,sub,unos,Unos asistentes aplaudieron.,No todos los asistentes aplaudieron.
+99,whole,algunos,Algunos asistentes aplaudieron.,Todos los asistentes aplaudieron.
+99,whole,unos,Unos asistentes aplaudieron.,Todos los asistentes aplaudieron.
+100,sub,algunos,Algunos residentes parecían decididos a quedarse.,No todos los residentes parecían decididos a quedarse.
+100,sub,unos,Unos residentes parecían decididos a quedarse.,No todos los residentes parecían decididos a quedarse.
+100,whole,algunos,Algunos residentes parecían decididos a quedarse.,Todos los residentes parecían decididos a quedarse.
+100,whole,unos,Unos residentes parecían decididos a quedarse.,Todos los residentes parecían decididos a quedarse.
+101,sub,algunos,Algunos analistas habían estimado una pérdida trimestral.,No todos los analistas habían estimado una pérdida trimestral.
+101,sub,unos,Unos analistas habían estimado una pérdida trimestral.,No todos los analistas habían estimado una pérdida trimestral.
+101,whole,algunos,Algunos analistas habían estimado una pérdida trimestral.,Todos los analistas habían estimado una pérdida trimestral.
+101,whole,unos,Unos analistas habían estimado una pérdida trimestral.,Todos los analistas habían estimado una pérdida trimestral.
+102,sub,algunos,Algunos jugadores están amenazando con no presentarse.,No todos los jugadores están amenazando con no presentarse.
+102,sub,unos,Unos jugadores están amenazando con no presentarse.,No todos los jugadores están amenazando con no presentarse.
+102,whole,algunos,Algunos jugadores están amenazando con no presentarse.,Todos los jugadores están amenazando con no presentarse.
+102,whole,unos,Unos jugadores están amenazando con no presentarse.,Todos los jugadores están amenazando con no presentarse.
+103,sub,algunos,Algunos políticos podrán respirar tranquilos.,No todos los políticos podrán respirar tranquilos.
+103,sub,unos,Unos políticos podrán respirar tranquilos.,No todos los políticos podrán respirar tranquilos.
+103,whole,algunos,Algunos políticos podrán respirar tranquilos.,Todos los políticos podrán respirar tranquilos.
+103,whole,unos,Unos políticos podrán respirar tranquilos.,Todos los políticos podrán respirar tranquilos.
+104,sub,algunos,Algunos residentes que protestaron fueron detenidos.,No todos los residentes que protestaron fueron detenidos.
+104,sub,unos,Unos residentes que protestaron fueron detenidos.,No todos los residentes que protestaron fueron detenidos.
+104,whole,algunos,Algunos residentes que protestaron fueron detenidos.,Todos los residentes que protestaron fueron detenidos.
+104,whole,unos,Unos residentes que protestaron fueron detenidos.,Todos los residentes que protestaron fueron detenidos.
+105,sub,algunos,Algunos colegas tuvieron dificultades.,No todos los colegas tuvieron dificultades.
+105,sub,unos,Unos colegas tuvieron dificultades.,No todos los colegas tuvieron dificultades.
+105,whole,algunos,Algunos colegas tuvieron dificultades.,Todos los colegas tuvieron dificultades.
+105,whole,unos,Unos colegas tuvieron dificultades.,Todos los colegas tuvieron dificultades.
+106,sub,algunos,Algunos compañeros le consideran un vendido.,No todos los compañeros le consideran un vendido.
+106,sub,unos,Unos compañeros le consideran un vendido.,No todos los compañeros le consideran un vendido.
+106,whole,algunos,Algunos compañeros le consideran un vendido.,Todos los compañeros le consideran un vendido.
+106,whole,unos,Unos compañeros le consideran un vendido.,Todos los compañeros le consideran un vendido.
+107,sub,algunos,Algunos analistas están menos seguros.,No todos los analistas están menos seguros.
+107,sub,unos,Unos analistas están menos seguros.,No todos los analistas están menos seguros.
+107,whole,algunos,Algunos analistas están menos seguros.,Todos los analistas están menos seguros.
+107,whole,unos,Unos analistas están menos seguros.,Todos los analistas están menos seguros.
+108,sub,algunos,Algunos hispanos sienten este rechazo en carne propia.,No todos los hispanos sienten este rechazo en carne propia.
+108,sub,unos,Unos hispanos sienten este rechazo en carne propia.,No todos los hispanos sienten este rechazo en carne propia.
+108,whole,algunos,Algunos hispanos sienten este rechazo en carne propia.,Todos los hispanos sienten este rechazo en carne propia.
+108,whole,unos,Unos hispanos sienten este rechazo en carne propia.,Todos los hispanos sienten este rechazo en carne propia.
+109,sub,algunos,Algunos periodistas dijeron que no iba a torear.,No todos los periodistas dijeron que no iba a torear.
+109,sub,unos,Unos periodistas dijeron que no iba a torear.,No todos los periodistas dijeron que no iba a torear.
+109,whole,algunos,Algunos periodistas dijeron que no iba a torear.,Todos los periodistas dijeron que no iba a torear.
+109,whole,unos,Unos periodistas dijeron que no iba a torear.,Todos los periodistas dijeron que no iba a torear.
+110,sub,algunos,Algunos pobladores preferían usar los verdaderos nombres.,No todos los pobladores preferían usar los verdaderos nombres.
+110,sub,unos,Unos pobladores preferían usar los verdaderos nombres.,No todos los pobladores preferían usar los verdaderos nombres.
+110,whole,algunos,Algunos pobladores preferían usar los verdaderos nombres.,Todos los pobladores preferían usar los verdaderos nombres.
+110,whole,unos,Unos pobladores preferían usar los verdaderos nombres.,Todos los pobladores preferían usar los verdaderos nombres.
+111,sub,algunos,Algunos pacientes están muy enfermos.,No todos los pacientes están muy enfermos.
+111,sub,unos,Unos pacientes están muy enfermos.,No todos los pacientes están muy enfermos.
+111,whole,algunos,Algunos pacientes están muy enfermos.,Todos los pacientes están muy enfermos.
+111,whole,unos,Unos pacientes están muy enfermos.,Todos los pacientes están muy enfermos.
+112,sub,algunos,Algunos vecinos intentan comprender.,No todos los vecinos intentan comprender.
+112,sub,unos,Unos vecinos intentan comprender.,No todos los vecinos intentan comprender.
+112,whole,algunos,Algunos vecinos intentan comprender.,Todos los vecinos intentan comprender.
+112,whole,unos,Unos vecinos intentan comprender.,Todos los vecinos intentan comprender.
+113,sub,algunos,Algunos mosquitos transmiten el paludismo al hombre.,No todos los mosquitos transmiten el paludismo al hombre.
+113,sub,unos,Unos mosquitos transmiten el paludismo al hombre.,No todos los mosquitos transmiten el paludismo al hombre.
+113,whole,algunos,Algunos mosquitos transmiten el paludismo al hombre.,Todos los mosquitos transmiten el paludismo al hombre.
+113,whole,unos,Unos mosquitos transmiten el paludismo al hombre.,Todos los mosquitos transmiten el paludismo al hombre.
+114,sub,algunos,Algunos vehículos han quedado para el desguace.,No todos los vehículos han quedado para el desguace.
+114,sub,unos,Unos vehículos han quedado para el desguace.,No todos los vehículos han quedado para el desguace.
+114,whole,algunos,Algunos vehículos han quedado para el desguace.,Todos los vehículos han quedado para el desguace.
+114,whole,unos,Unos vehículos han quedado para el desguace.,Todos los vehículos han quedado para el desguace.
+115,sub,algunos,Algunos infantes comparten sin necesidad de enseñarles.,No todos los infantes comparten sin necesidad de enseñarles.
+115,sub,unos,Unos infantes comparten sin necesidad de enseñarles.,No todos los infantes comparten sin necesidad de enseñarles.
+115,whole,algunos,Algunos infantes comparten sin necesidad de enseñarles.,Todos los infantes comparten sin necesidad de enseñarles.
+115,whole,unos,Unos infantes comparten sin necesidad de enseñarles.,Todos los infantes comparten sin necesidad de enseñarles.
+116,sub,algunos,Algunos proyectos han sido desechados.,No todos los proyectos han sido desechados.
+116,sub,unos,Unos proyectos han sido desechados.,No todos los proyectos han sido desechados.
+116,whole,algunos,Algunos proyectos han sido desechados.,Todos los proyectos han sido desechados.
+116,whole,unos,Unos proyectos han sido desechados.,Todos los proyectos han sido desechados.
+117,sub,algunos,Algunos jugadores tuvieron problemas.,No todos los jugadores tuvieron problemas.
+117,sub,unos,Unos jugadores tuvieron problemas.,No todos los jugadores tuvieron problemas.
+117,whole,algunos,Algunos jugadores tuvieron problemas.,Todos los jugadores tuvieron problemas.
+117,whole,unos,Unos jugadores tuvieron problemas.,Todos los jugadores tuvieron problemas.
+118,sub,algunos,Algunos conductores han expresado sus quejas.,No todos los conductores han expresado sus quejas.
+118,sub,unos,Unos conductores han expresado sus quejas.,No todos los conductores han expresado sus quejas.
+118,whole,algunos,Algunos conductores han expresado sus quejas.,Todos los conductores han expresado sus quejas.
+118,whole,unos,Unos conductores han expresado sus quejas.,Todos los conductores han expresado sus quejas.
+119,sub,algunos,Algunos magistrados ayer intentaron responder la pregunta.,No todos los magistrados ayer intentaron responder la pregunta.
+119,sub,unos,Unos magistrados ayer intentaron responder la pregunta.,No todos los magistrados ayer intentaron responder la pregunta.
+119,whole,algunos,Algunos magistrados ayer intentaron responder la pregunta.,Todos los magistrados ayer intentaron responder la pregunta.
+119,whole,unos,Unos magistrados ayer intentaron responder la pregunta.,Todos los magistrados ayer intentaron responder la pregunta.
+120,sub,algunos,Algunos escritores catalanes deciden escribir en castellano.,No todos los escritores catalanes deciden escribir en castellano.
+120,sub,unos,Unos escritores catalanes deciden escribir en castellano.,No todos los escritores catalanes deciden escribir en castellano.
+120,whole,algunos,Algunos escritores catalanes deciden escribir en castellano.,Todos los escritores catalanes deciden escribir en castellano.
+120,whole,unos,Unos escritores catalanes deciden escribir en castellano.,Todos los escritores catalanes deciden escribir en castellano.
+121,sub,algunos,Algunos casos han resultado ser mortales.,No todos los casos han resultado ser mortales.
+121,sub,unos,Unos casos han resultado ser mortales.,No todos los casos han resultado ser mortales.
+121,whole,algunos,Algunos casos han resultado ser mortales.,Todos los casos han resultado ser mortales.
+121,whole,unos,Unos casos han resultado ser mortales.,Todos los casos han resultado ser mortales.
+122,sub,algunos,Algunos palestinos lo consideraron profundamente corrupto.,No todos los palestinos lo consideraron profundamente corrupto.
+122,sub,unos,Unos palestinos lo consideraron profundamente corrupto.,No todos los palestinos lo consideraron profundamente corrupto.
+122,whole,algunos,Algunos palestinos lo consideraron profundamente corrupto.,Todos los palestinos lo consideraron profundamente corrupto.
+122,whole,unos,Unos palestinos lo consideraron profundamente corrupto.,Todos los palestinos lo consideraron profundamente corrupto.
+123,sub,algunos,Algunos locales comerciales denunciaron destrozos.,No todos los locales comerciales denunciaron destrozos.
+123,sub,unos,Unos locales comerciales denunciaron destrozos.,No todos los locales comerciales denunciaron destrozos.
+123,whole,algunos,Algunos locales comerciales denunciaron destrozos.,Todos los locales comerciales denunciaron destrozos.
+123,whole,unos,Unos locales comerciales denunciaron destrozos.,Todos los locales comerciales denunciaron destrozos.
+124,sub,algunos,Algunos agentes lloraban.,No todos los agentes lloraban.
+124,sub,unos,Unos agentes lloraban.,No todos los agentes lloraban.
+124,whole,algunos,Algunos agentes lloraban.,Todos los agentes lloraban.
+124,whole,unos,Unos agentes lloraban.,Todos los agentes lloraban.
+125,sub,algunos,Algunos niños resultaron heridos en los brazos.,No todos los niños resultaron heridos en los brazos.
+125,sub,unos,Unos niños resultaron heridos en los brazos.,No todos los niños resultaron heridos en los brazos.
+125,whole,algunos,Algunos niños resultaron heridos en los brazos.,Todos los niños resultaron heridos en los brazos.
+125,whole,unos,Unos niños resultaron heridos en los brazos.,Todos los niños resultaron heridos en los brazos.
+126,sub,algunos,Algunos trabajadores lo responsabilizaron por esta muerte.,No todos los trabajadores lo responsabilizaron por esta muerte.
+126,sub,unos,Unos trabajadores lo responsabilizaron por esta muerte.,No todos los trabajadores lo responsabilizaron por esta muerte.
+126,whole,algunos,Algunos trabajadores lo responsabilizaron por esta muerte.,Todos los trabajadores lo responsabilizaron por esta muerte.
+126,whole,unos,Unos trabajadores lo responsabilizaron por esta muerte.,Todos los trabajadores lo responsabilizaron por esta muerte.
+127,sub,algunos,Algunos sectores permanecen a oscuras.,No todos los sectores permanecen a oscuras.
+127,sub,unos,Unos sectores permanecen a oscuras.,No todos los sectores permanecen a oscuras.
+127,whole,algunos,Algunos sectores permanecen a oscuras.,Todos los sectores permanecen a oscuras.
+127,whole,unos,Unos sectores permanecen a oscuras.,Todos los sectores permanecen a oscuras.
+128,sub,algunos,Algunos negociadores esperan avances.,No todos los negociadores esperan avances.
+128,sub,unos,Unos negociadores esperan avances.,No todos los negociadores esperan avances.
+128,whole,algunos,Algunos negociadores esperan avances.,Todos los negociadores esperan avances.
+128,whole,unos,Unos negociadores esperan avances.,Todos los negociadores esperan avances.
+129,sub,algunos,Algunos opositores lo condenaban.,No todos los opositores lo condenaban.
+129,sub,unos,Unos opositores lo condenaban.,No todos los opositores lo condenaban.
+129,whole,algunos,Algunos opositores lo condenaban.,Todos los opositores lo condenaban.
+129,whole,unos,Unos opositores lo condenaban.,Todos los opositores lo condenaban.
+130,sub,algunos,Algunos jugadores cuestionaron el estilo del entrenador.,No todos los jugadores cuestionaron el estilo del entrenador.
+130,sub,unos,Unos jugadores cuestionaron el estilo del entrenador.,No todos los jugadores cuestionaron el estilo del entrenador.
+130,whole,algunos,Algunos jugadores cuestionaron el estilo del entrenador.,Todos los jugadores cuestionaron el estilo del entrenador.
+130,whole,unos,Unos jugadores cuestionaron el estilo del entrenador.,Todos los jugadores cuestionaron el estilo del entrenador.
+131,sub,algunos,Algunos expertos dicen que no tiene validez.,No todos los expertos dicen que no tiene validez.
+131,sub,unos,Unos expertos dicen que no tiene validez.,No todos los expertos dicen que no tiene validez.
+131,whole,algunos,Algunos expertos dicen que no tiene validez.,Todos los expertos dicen que no tiene validez.
+131,whole,unos,Unos expertos dicen que no tiene validez.,Todos los expertos dicen que no tiene validez.
+132,sub,algunos,Algunos pacientes necesitarán cirugías en casos extremos.,No todos los pacientes necesitarán cirugías en casos extremos.
+132,sub,unos,Unos pacientes necesitarán cirugías en casos extremos.,No todos los pacientes necesitarán cirugías en casos extremos.
+132,whole,algunos,Algunos pacientes necesitarán cirugías en casos extremos.,Todos los pacientes necesitarán cirugías en casos extremos.
+132,whole,unos,Unos pacientes necesitarán cirugías en casos extremos.,Todos los pacientes necesitarán cirugías en casos extremos.

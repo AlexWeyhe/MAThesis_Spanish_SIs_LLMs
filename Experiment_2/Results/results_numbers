@@ -1,0 +1,529 @@
+item,context,determiner,premise,hypothesis,mdeberta,bertin,roberta
+1,sub,algunos,Algunos tramos tienen tráfico denso.,Tres de cuatro tramos tienen tráfico denso.,neutral,neutral,neutral
+1,sub,unos,Unos tramos tienen tráfico denso.,Tres de cuatro tramos tienen tráfico denso.,neutral,neutral,neutral
+1,whole,algunos,Algunos tramos tienen tráfico denso.,Cuatro de cuatro tramos tienen tráfico denso.,neutral,neutral,neutral
+1,whole,unos,Unos tramos tienen tráfico denso.,Cuatro de cuatro tramos tienen tráfico denso.,neutral,neutral,neutral
+2,sub,algunos,Algunos regidores opinan que nada pasará.,Tres de cuatro regidores opinan que nada pasará.,neutral,neutral,neutral
+2,sub,unos,Unos regidores opinan que nada pasará.,Tres de cuatro regidores opinan que nada pasará.,neutral,neutral,neutral
+2,whole,algunos,Algunos regidores opinan que nada pasará.,Cuatro de cuatro regidores opinan que nada pasará.,neutral,neutral,neutral
+2,whole,unos,Unos regidores opinan que nada pasará.,Cuatro de cuatro regidores opinan que nada pasará.,contradiction,neutral,neutral
+3,sub,algunos,Algunos precedentes no ayudan.,Tres de cuatro precedentes no ayudan.,neutral,neutral,neutral
+3,sub,unos,Unos precedentes no ayudan.,Tres de cuatro precedentes no ayudan.,neutral,neutral,neutral
+3,whole,algunos,Algunos precedentes no ayudan.,Cuatro de cuatro precedentes no ayudan.,neutral,neutral,neutral
+3,whole,unos,Unos precedentes no ayudan.,Cuatro de cuatro precedentes no ayudan.,neutral,neutral,neutral
+4,sub,algunos,Algunos periódicos acusaron al gobierno de “matarla”.,Tres de cuatro periódicos acusaron al gobierno de “matarla”.,neutral,neutral,neutral
+4,sub,unos,Unos periódicos acusaron al gobierno de “matarla”.,Tres de cuatro periódicos acusaron al gobierno de “matarla”.,neutral,neutral,neutral
+4,whole,algunos,Algunos periódicos acusaron al gobierno de “matarla”.,Cuatro de cuatro periódicos acusaron al gobierno de “matarla”.,neutral,neutral,neutral
+4,whole,unos,Unos periódicos acusaron al gobierno de “matarla”.,Cuatro de cuatro periódicos acusaron al gobierno de “matarla”.,neutral,neutral,neutral
+5,sub,algunos,Algunos pasajeros han sido evacuados por precaución.,Tres de cuatro pasajeros han sido evacuados por precaución.,neutral,neutral,neutral
+5,sub,unos,Unos pasajeros han sido evacuados por precaución.,Tres de cuatro pasajeros han sido evacuados por precaución.,contradiction,contradiction,contradiction
+5,whole,algunos,Algunos pasajeros han sido evacuados por precaución.,Cuatro de cuatro pasajeros han sido evacuados por precaución.,neutral,neutral,neutral
+5,whole,unos,Unos pasajeros han sido evacuados por precaución.,Cuatro de cuatro pasajeros han sido evacuados por precaución.,contradiction,contradiction,contradiction
+6,sub,algunos,Algunos partidos políticos lo citaron.,Tres de cuatro partidos políticos lo citaron.,neutral,neutral,neutral
+6,sub,unos,Unos partidos políticos lo citaron.,Tres de cuatro partidos políticos lo citaron.,neutral,neutral,neutral
+6,whole,algunos,Algunos partidos políticos lo citaron.,Cuatro de cuatro partidos políticos lo citaron.,neutral,neutral,neutral
+6,whole,unos,Unos partidos políticos lo citaron.,Cuatro de cuatro partidos políticos lo citaron.,contradiction,neutral,neutral
+7,sub,algunos,Algunos hombres nacen póstumos.,Tres de cuatro hombres nacen póstumos.,neutral,neutral,neutral
+7,sub,unos,Unos hombres nacen póstumos.,Tres de cuatro hombres nacen póstumos.,neutral,contradiction,contradiction
+7,whole,algunos,Algunos hombres nacen póstumos.,Cuatro de cuatro hombres nacen póstumos.,neutral,neutral,neutral
+7,whole,unos,Unos hombres nacen póstumos.,Cuatro de cuatro hombres nacen póstumos.,contradiction,neutral,contradiction
+8,sub,algunos,Algunos gremios no quieren dialogar.,Tres de cuatro gremios no quieren dialogar.,neutral,neutral,neutral
+8,sub,unos,Unos gremios no quieren dialogar.,Tres de cuatro gremios no quieren dialogar.,neutral,neutral,neutral
+8,whole,algunos,Algunos gremios no quieren dialogar.,Cuatro de cuatro gremios no quieren dialogar.,neutral,neutral,neutral
+8,whole,unos,Unos gremios no quieren dialogar.,Cuatro de cuatro gremios no quieren dialogar.,neutral,neutral,neutral
+9,sub,algunos,Algunos ejemplos exponen el cuadro.,Tres de cuatro ejemplos exponen el cuadro.,neutral,neutral,neutral
+9,sub,unos,Unos ejemplos exponen el cuadro.,Tres de cuatro ejemplos exponen el cuadro.,neutral,neutral,contradiction
+9,whole,algunos,Algunos ejemplos exponen el cuadro.,Cuatro de cuatro ejemplos exponen el cuadro.,neutral,neutral,neutral
+9,whole,unos,Unos ejemplos exponen el cuadro.,Cuatro de cuatro ejemplos exponen el cuadro.,neutral,contradiction,contradiction
+10,sub,algunos,Algunos dispositivos brillan en la oscuridad.,Tres de cuatro dispositivos brillan en la oscuridad.,neutral,neutral,neutral
+10,sub,unos,Unos dispositivos brillan en la oscuridad.,Tres de cuatro dispositivos brillan en la oscuridad.,neutral,neutral,neutral
+10,whole,algunos,Algunos dispositivos brillan en la oscuridad.,Cuatro de cuatro dispositivos brillan en la oscuridad.,neutral,neutral,neutral
+10,whole,unos,Unos dispositivos brillan en la oscuridad.,Cuatro de cuatro dispositivos brillan en la oscuridad.,neutral,neutral,contradiction
+11,sub,algunos,Algunos diplomáticos occidentales participaron.,Tres de cuatro diplomáticos occidentales participaron.,neutral,neutral,neutral
+11,sub,unos,Unos diplomáticos occidentales participaron.,Tres de cuatro diplomáticos occidentales participaron.,contradiction,neutral,contradiction
+11,whole,algunos,Algunos diplomáticos occidentales participaron.,Cuatro de cuatro diplomáticos occidentales participaron.,neutral,neutral,neutral
+11,whole,unos,Unos diplomáticos occidentales participaron.,Cuatro de cuatro diplomáticos occidentales participaron.,contradiction,neutral,contradiction
+12,sub,algunos,Algunos ciudadanos suben a mirar más alto.,Tres de cuatro ciudadanos suben a mirar más alto.,neutral,neutral,neutral
+12,sub,unos,Unos ciudadanos suben a mirar más alto.,Tres de cuatro ciudadanos suben a mirar más alto.,contradiction,neutral,neutral
+12,whole,algunos,Algunos ciudadanos suben a mirar más alto.,Cuatro de cuatro ciudadanos suben a mirar más alto.,neutral,neutral,neutral
+12,whole,unos,Unos ciudadanos suben a mirar más alto.,Cuatro de cuatro ciudadanos suben a mirar más alto.,contradiction,neutral,contradiction
+13,sub,algunos,Algunos chicos terminaron lastimados.,Tres de cuatro chicos terminaron lastimados.,neutral,neutral,neutral
+13,sub,unos,Unos chicos terminaron lastimados.,Tres de cuatro chicos terminaron lastimados.,neutral,neutral,neutral
+13,whole,algunos,Algunos chicos terminaron lastimados.,Cuatro de cuatro chicos terminaron lastimados.,neutral,neutral,neutral
+13,whole,unos,Unos chicos terminaron lastimados.,Cuatro de cuatro chicos terminaron lastimados.,contradiction,neutral,contradiction
+14,sub,algunos,Algunos campamentos prometen disciplina militar.,Tres de cuatro campamentos prometen disciplina militar.,neutral,neutral,neutral
+14,sub,unos,Unos campamentos prometen disciplina militar.,Tres de cuatro campamentos prometen disciplina militar.,neutral,neutral,neutral
+14,whole,algunos,Algunos campamentos prometen disciplina militar.,Cuatro de cuatro campamentos prometen disciplina militar.,neutral,neutral,neutral
+14,whole,unos,Unos campamentos prometen disciplina militar.,Cuatro de cuatro campamentos prometen disciplina militar.,neutral,neutral,neutral
+15,sub,algunos,Algunos agentes de policía resultaron lesionados.,Tres de cuatro agentes de policía resultaron lesionados.,neutral,neutral,neutral
+15,sub,unos,Unos agentes de policía resultaron lesionados.,Tres de cuatro agentes de policía resultaron lesionados.,contradiction,contradiction,contradiction
+15,whole,algunos,Algunos agentes de policía resultaron lesionados.,Cuatro de cuatro agentes de policía resultaron lesionados.,neutral,neutral,neutral
+15,whole,unos,Unos agentes de policía resultaron lesionados.,Cuatro de cuatro agentes de policía resultaron lesionados.,contradiction,neutral,contradiction
+16,sub,algunos,Algunos dirigentes sindicales quieren vivir en el anarquismo.,Tres de cuatro dirigentes sindicales quieren vivir en el anarquismo.,neutral,neutral,neutral
+16,sub,unos,Unos dirigentes sindicales quieren vivir en el anarquismo.,Tres de cuatro dirigentes sindicales quieren vivir en el anarquismo.,neutral,neutral,neutral
+16,whole,algunos,Algunos dirigentes sindicales quieren vivir en el anarquismo.,Cuatro de cuatro dirigentes sindicales quieren vivir en el anarquismo.,neutral,neutral,neutral
+16,whole,unos,Unos dirigentes sindicales quieren vivir en el anarquismo.,Cuatro de cuatro dirigentes sindicales quieren vivir en el anarquismo.,neutral,neutral,contradiction
+17,sub,algunos,Algunos sectores del instituto fueron remodelados.,Tres de cuatro sectores del instituto fueron remodelados.,neutral,neutral,neutral
+17,sub,unos,Unos sectores del instituto fueron remodelados.,Tres de cuatro sectores del instituto fueron remodelados.,neutral,contradiction,neutral
+17,whole,algunos,Algunos sectores del instituto fueron remodelados.,Cuatro de cuatro sectores del instituto fueron remodelados.,neutral,neutral,neutral
+17,whole,unos,Unos sectores del instituto fueron remodelados.,Cuatro de cuatro sectores del instituto fueron remodelados.,neutral,contradiction,neutral
+18,sub,algunos,Algunos políticos dijeron que todos estaban comprados.,Tres de cuatro políticos dijeron que todos estaban comprados.,neutral,neutral,neutral
+18,sub,unos,Unos políticos dijeron que todos estaban comprados.,Tres de cuatro políticos dijeron que todos estaban comprados.,neutral,neutral,neutral
+18,whole,algunos,Algunos políticos dijeron que todos estaban comprados.,Cuatro de cuatro políticos dijeron que todos estaban comprados.,neutral,neutral,neutral
+18,whole,unos,Unos políticos dijeron que todos estaban comprados.,Cuatro de cuatro políticos dijeron que todos estaban comprados.,neutral,neutral,neutral
+19,sub,algunos,Algunos legisladores han adoptado una postura similar.,Tres de cuatro legisladores han adoptado una postura similar.,neutral,neutral,neutral
+19,sub,unos,Unos legisladores han adoptado una postura similar.,Tres de cuatro legisladores han adoptado una postura similar.,neutral,neutral,neutral
+19,whole,algunos,Algunos legisladores han adoptado una postura similar.,Cuatro de cuatro legisladores han adoptado una postura similar.,neutral,neutral,neutral
+19,whole,unos,Unos legisladores han adoptado una postura similar.,Cuatro de cuatro legisladores han adoptado una postura similar.,contradiction,neutral,contradiction
+20,sub,algunos,Algunos ex jugadores británicos criticaron a Marcelo.,Tres de cuatro ex jugadores británicos criticaron a Marcelo.,neutral,neutral,neutral
+20,sub,unos,Unos ex jugadores británicos criticaron a Marcelo.,Tres de cuatro ex jugadores británicos criticaron a Marcelo.,neutral,neutral,neutral
+20,whole,algunos,Algunos ex jugadores británicos criticaron a Marcelo.,Cuatro de cuatro ex jugadores británicos criticaron a Marcelo.,neutral,neutral,neutral
+20,whole,unos,Unos ex jugadores británicos criticaron a Marcelo.,Cuatro de cuatro ex jugadores británicos criticaron a Marcelo.,neutral,neutral,contradiction
+21,sub,algunos,Algunos establecimientos ofrecen financiar las compras.,Tres de cuatro establecimientos ofrecen financiar las compras.,neutral,neutral,neutral
+21,sub,unos,Unos establecimientos ofrecen financiar las compras.,Tres de cuatro establecimientos ofrecen financiar las compras.,neutral,neutral,neutral
+21,whole,algunos,Algunos establecimientos ofrecen financiar las compras.,Cuatro de cuatro establecimientos ofrecen financiar las compras.,neutral,neutral,neutral
+21,whole,unos,Unos establecimientos ofrecen financiar las compras.,Cuatro de cuatro establecimientos ofrecen financiar las compras.,neutral,neutral,contradiction
+22,sub,algunos,Algunos concejales prefieren seguir tal como están.,Tres de cuatro concejales prefieren seguir tal como están.,neutral,neutral,neutral
+22,sub,unos,Unos concejales prefieren seguir tal como están.,Tres de cuatro concejales prefieren seguir tal como están.,neutral,neutral,neutral
+22,whole,algunos,Algunos concejales prefieren seguir tal como están.,Cuatro de cuatro concejales prefieren seguir tal como están.,neutral,neutral,neutral
+22,whole,unos,Unos concejales prefieren seguir tal como están.,Cuatro de cuatro concejales prefieren seguir tal como están.,entailment,neutral,neutral
+23,sub,algunos,Algunos aviones tienen una tecnología prácticamente olímpica,Tres de cuatro aviones tienen una tecnología prácticamente olímpica,neutral,neutral,neutral
+23,sub,unos,Unos aviones tienen una tecnología prácticamente olímpica,Tres de cuatro aviones tienen una tecnología prácticamente olímpica,neutral,neutral,neutral
+23,whole,algunos,Algunos aviones tienen una tecnología prácticamente olímpica,Cuatro de cuatro aviones tienen una tecnología prácticamente olímpica,neutral,neutral,neutral
+23,whole,unos,Unos aviones tienen una tecnología prácticamente olímpica,Cuatro de cuatro aviones tienen una tecnología prácticamente olímpica,neutral,neutral,neutral
+24,sub,algunos,Algunos agentes cumplen penas de cárcel.,Tres de cuatro agentes cumplen penas de cárcel.,neutral,neutral,neutral
+24,sub,unos,Unos agentes cumplen penas de cárcel.,Tres de cuatro agentes cumplen penas de cárcel.,contradiction,contradiction,contradiction
+24,whole,algunos,Algunos agentes cumplen penas de cárcel.,Cuatro de cuatro agentes cumplen penas de cárcel.,neutral,neutral,neutral
+24,whole,unos,Unos agentes cumplen penas de cárcel.,Cuatro de cuatro agentes cumplen penas de cárcel.,contradiction,neutral,contradiction
+25,sub,algunos,Algunos aficionados evidenciaron su enfado.,Tres de cuatro aficionados evidenciaron su enfado.,neutral,neutral,neutral
+25,sub,unos,Unos aficionados evidenciaron su enfado.,Tres de cuatro aficionados evidenciaron su enfado.,neutral,neutral,neutral
+25,whole,algunos,Algunos aficionados evidenciaron su enfado.,Cuatro de cuatro aficionados evidenciaron su enfado.,neutral,neutral,neutral
+25,whole,unos,Unos aficionados evidenciaron su enfado.,Cuatro de cuatro aficionados evidenciaron su enfado.,contradiction,neutral,contradiction
+26,sub,algunos,Algunos acusados murieron durante el proceso.,Tres de cuatro acusados murieron durante el proceso.,neutral,neutral,neutral
+26,sub,unos,Unos acusados murieron durante el proceso.,Tres de cuatro acusados murieron durante el proceso.,contradiction,neutral,contradiction
+26,whole,algunos,Algunos acusados murieron durante el proceso.,Cuatro de cuatro acusados murieron durante el proceso.,neutral,neutral,neutral
+26,whole,unos,Unos acusados murieron durante el proceso.,Cuatro de cuatro acusados murieron durante el proceso.,contradiction,neutral,contradiction
+27,sub,algunos,Algunos trabajadores comienzan la huelga general en Lisboa.,Tres de cuatro trabajadores comienzan la huelga general en Lisboa.,neutral,neutral,neutral
+27,sub,unos,Unos trabajadores comienzan la huelga general en Lisboa.,Tres de cuatro trabajadores comienzan la huelga general en Lisboa.,neutral,contradiction,contradiction
+27,whole,algunos,Algunos trabajadores comienzan la huelga general en Lisboa.,Cuatro de cuatro trabajadores comienzan la huelga general en Lisboa.,neutral,neutral,neutral
+27,whole,unos,Unos trabajadores comienzan la huelga general en Lisboa.,Cuatro de cuatro trabajadores comienzan la huelga general en Lisboa.,contradiction,neutral,contradiction
+28,sub,algunos,Algunos platos están apilados cuidadosamente en los estantes.,Tres de cuatro platos están apilados cuidadosamente en los estantes.,neutral,neutral,neutral
+28,sub,unos,Unos platos están apilados cuidadosamente en los estantes.,Tres de cuatro platos están apilados cuidadosamente en los estantes.,neutral,contradiction,contradiction
+28,whole,algunos,Algunos platos están apilados cuidadosamente en los estantes.,Cuatro de cuatro platos están apilados cuidadosamente en los estantes.,neutral,neutral,neutral
+28,whole,unos,Unos platos están apilados cuidadosamente en los estantes.,Cuatro de cuatro platos están apilados cuidadosamente en los estantes.,contradiction,contradiction,contradiction
+29,sub,algunos,Algunos jugadores acudieron a Coapa a recoger pertenencias.,Tres de cuatro jugadores acudieron a Coapa a recoger pertenencias.,neutral,neutral,neutral
+29,sub,unos,Unos jugadores acudieron a Coapa a recoger pertenencias.,Tres de cuatro jugadores acudieron a Coapa a recoger pertenencias.,contradiction,neutral,contradiction
+29,whole,algunos,Algunos jugadores acudieron a Coapa a recoger pertenencias.,Cuatro de cuatro jugadores acudieron a Coapa a recoger pertenencias.,neutral,neutral,neutral
+29,whole,unos,Unos jugadores acudieron a Coapa a recoger pertenencias.,Cuatro de cuatro jugadores acudieron a Coapa a recoger pertenencias.,contradiction,neutral,contradiction
+30,sub,algunos,Algunos hombres sólo queremos ver el mundo arder.,Tres de cuatro hombres sólo queremos ver el mundo arder.,neutral,neutral,neutral
+30,sub,unos,Unos hombres sólo queremos ver el mundo arder.,Tres de cuatro hombres sólo queremos ver el mundo arder.,neutral,neutral,contradiction
+30,whole,algunos,Algunos hombres sólo queremos ver el mundo arder.,Cuatro de cuatro hombres sólo queremos ver el mundo arder.,neutral,neutral,neutral
+30,whole,unos,Unos hombres sólo queremos ver el mundo arder.,Cuatro de cuatro hombres sólo queremos ver el mundo arder.,contradiction,neutral,contradiction
+31,sub,algunos,Algunos pisos rojos tienen tapiadas las ventanas.,Tres de cuatro pisos rojos tienen tapiadas las ventanas.,neutral,neutral,neutral
+31,sub,unos,Unos pisos rojos tienen tapiadas las ventanas.,Tres de cuatro pisos rojos tienen tapiadas las ventanas.,neutral,neutral,contradiction
+31,whole,algunos,Algunos pisos rojos tienen tapiadas las ventanas.,Cuatro de cuatro pisos rojos tienen tapiadas las ventanas.,neutral,neutral,neutral
+31,whole,unos,Unos pisos rojos tienen tapiadas las ventanas.,Cuatro de cuatro pisos rojos tienen tapiadas las ventanas.,contradiction,neutral,contradiction
+32,sub,algunos,Algunos expertos criticaron severamente los experimentos.,Tres de cuatro expertos criticaron severamente los experimentos.,neutral,neutral,neutral
+32,sub,unos,Unos expertos criticaron severamente los experimentos.,Tres de cuatro expertos criticaron severamente los experimentos.,neutral,neutral,neutral
+32,whole,algunos,Algunos expertos criticaron severamente los experimentos.,Cuatro de cuatro expertos criticaron severamente los experimentos.,neutral,neutral,neutral
+32,whole,unos,Unos expertos criticaron severamente los experimentos.,Cuatro de cuatro expertos criticaron severamente los experimentos.,contradiction,neutral,neutral
+33,sub,algunos,Algunos deportistas lo tienen claro.,Tres de cuatro deportistas lo tienen claro.,neutral,neutral,neutral
+33,sub,unos,Unos deportistas lo tienen claro.,Tres de cuatro deportistas lo tienen claro.,neutral,neutral,neutral
+33,whole,algunos,Algunos deportistas lo tienen claro.,Cuatro de cuatro deportistas lo tienen claro.,neutral,neutral,neutral
+33,whole,unos,Unos deportistas lo tienen claro.,Cuatro de cuatro deportistas lo tienen claro.,neutral,neutral,neutral
+34,sub,algunos,Algunos comentarios dejan mucho que desear.,Tres de cuatro comentarios dejan mucho que desear.,neutral,neutral,neutral
+34,sub,unos,Unos comentarios dejan mucho que desear.,Tres de cuatro comentarios dejan mucho que desear.,neutral,neutral,neutral
+34,whole,algunos,Algunos comentarios dejan mucho que desear.,Cuatro de cuatro comentarios dejan mucho que desear.,neutral,neutral,neutral
+34,whole,unos,Unos comentarios dejan mucho que desear.,Cuatro de cuatro comentarios dejan mucho que desear.,neutral,neutral,neutral
+35,sub,algunos,Algunos ciudadanos manejan agendas realmente indignadas.,Tres de cuatro ciudadanos manejan agendas realmente indignadas.,neutral,neutral,neutral
+35,sub,unos,Unos ciudadanos manejan agendas realmente indignadas.,Tres de cuatro ciudadanos manejan agendas realmente indignadas.,contradiction,neutral,neutral
+35,whole,algunos,Algunos ciudadanos manejan agendas realmente indignadas.,Cuatro de cuatro ciudadanos manejan agendas realmente indignadas.,neutral,neutral,neutral
+35,whole,unos,Unos ciudadanos manejan agendas realmente indignadas.,Cuatro de cuatro ciudadanos manejan agendas realmente indignadas.,contradiction,neutral,contradiction
+36,sub,algunos,Algunos apartamentos han quedado calcinados.,Tres de cuatro apartamentos han quedado calcinados.,neutral,neutral,neutral
+36,sub,unos,Unos apartamentos han quedado calcinados.,Tres de cuatro apartamentos han quedado calcinados.,neutral,neutral,neutral
+36,whole,algunos,Algunos apartamentos han quedado calcinados.,Cuatro de cuatro apartamentos han quedado calcinados.,neutral,neutral,neutral
+36,whole,unos,Unos apartamentos han quedado calcinados.,Cuatro de cuatro apartamentos han quedado calcinados.,contradiction,neutral,contradiction
+37,sub,algunos,Algunos adolescentes ondeaban banderas nacionales.,Tres de cuatro adolescentes ondeaban banderas nacionales.,neutral,neutral,neutral
+37,sub,unos,Unos adolescentes ondeaban banderas nacionales.,Tres de cuatro adolescentes ondeaban banderas nacionales.,contradiction,neutral,contradiction
+37,whole,algunos,Algunos adolescentes ondeaban banderas nacionales.,Cuatro de cuatro adolescentes ondeaban banderas nacionales.,neutral,neutral,neutral
+37,whole,unos,Unos adolescentes ondeaban banderas nacionales.,Cuatro de cuatro adolescentes ondeaban banderas nacionales.,contradiction,neutral,contradiction
+38,sub,algunos,Algunos veteranos ven mucho descontrol.,Tres de cuatro veteranos ven mucho descontrol.,neutral,neutral,neutral
+38,sub,unos,Unos veteranos ven mucho descontrol.,Tres de cuatro veteranos ven mucho descontrol.,neutral,neutral,neutral
+38,whole,algunos,Algunos veteranos ven mucho descontrol.,Cuatro de cuatro veteranos ven mucho descontrol.,neutral,neutral,neutral
+38,whole,unos,Unos veteranos ven mucho descontrol.,Cuatro de cuatro veteranos ven mucho descontrol.,contradiction,neutral,neutral
+39,sub,algunos,Algunos soldados hablan de excitación.,Tres de cuatro soldados hablan de excitación.,neutral,neutral,neutral
+39,sub,unos,Unos soldados hablan de excitación.,Tres de cuatro soldados hablan de excitación.,contradiction,contradiction,contradiction
+39,whole,algunos,Algunos soldados hablan de excitación.,Cuatro de cuatro soldados hablan de excitación.,neutral,neutral,neutral
+39,whole,unos,Unos soldados hablan de excitación.,Cuatro de cuatro soldados hablan de excitación.,contradiction,contradiction,contradiction
+40,sub,algunos,Algunos porteros nos ponían problemas para pasar.,Tres de cuatro porteros nos ponían problemas para pasar.,neutral,neutral,neutral
+40,sub,unos,Unos porteros nos ponían problemas para pasar.,Tres de cuatro porteros nos ponían problemas para pasar.,neutral,neutral,contradiction
+40,whole,algunos,Algunos porteros nos ponían problemas para pasar.,Cuatro de cuatro porteros nos ponían problemas para pasar.,neutral,neutral,neutral
+40,whole,unos,Unos porteros nos ponían problemas para pasar.,Cuatro de cuatro porteros nos ponían problemas para pasar.,contradiction,neutral,contradiction
+41,sub,algunos,Algunos planteles suspendieron las clases.,Tres de cuatro planteles suspendieron las clases.,neutral,neutral,neutral
+41,sub,unos,Unos planteles suspendieron las clases.,Tres de cuatro planteles suspendieron las clases.,neutral,neutral,neutral
+41,whole,algunos,Algunos planteles suspendieron las clases.,Cuatro de cuatro planteles suspendieron las clases.,neutral,neutral,neutral
+41,whole,unos,Unos planteles suspendieron las clases.,Cuatro de cuatro planteles suspendieron las clases.,contradiction,neutral,neutral
+42,sub,algunos,Algunos pescadores la habitan en verano.,Tres de cuatro pescadores la habitan en verano.,neutral,neutral,neutral
+42,sub,unos,Unos pescadores la habitan en verano.,Tres de cuatro pescadores la habitan en verano.,neutral,neutral,contradiction
+42,whole,algunos,Algunos pescadores la habitan en verano.,Cuatro de cuatro pescadores la habitan en verano.,neutral,neutral,neutral
+42,whole,unos,Unos pescadores la habitan en verano.,Cuatro de cuatro pescadores la habitan en verano.,contradiction,neutral,contradiction
+43,sub,algunos,Algunos opositores quieren cantar fraude.,Tres de cuatro opositores quieren cantar fraude.,neutral,neutral,neutral
+43,sub,unos,Unos opositores quieren cantar fraude.,Tres de cuatro opositores quieren cantar fraude.,neutral,neutral,contradiction
+43,whole,algunos,Algunos opositores quieren cantar fraude.,Cuatro de cuatro opositores quieren cantar fraude.,neutral,neutral,neutral
+43,whole,unos,Unos opositores quieren cantar fraude.,Cuatro de cuatro opositores quieren cantar fraude.,contradiction,neutral,contradiction
+44,sub,algunos,Algunos medicamentos pueden tener este efecto secundario.,Tres de cuatro medicamentos pueden tener este efecto secundario.,neutral,neutral,neutral
+44,sub,unos,Unos medicamentos pueden tener este efecto secundario.,Tres de cuatro medicamentos pueden tener este efecto secundario.,neutral,neutral,neutral
+44,whole,algunos,Algunos medicamentos pueden tener este efecto secundario.,Cuatro de cuatro medicamentos pueden tener este efecto secundario.,neutral,neutral,neutral
+44,whole,unos,Unos medicamentos pueden tener este efecto secundario.,Cuatro de cuatro medicamentos pueden tener este efecto secundario.,neutral,neutral,neutral
+45,sub,algunos,Algunos jóvenes participaban en esa organización.,Tres de cuatro jóvenes participaban en esa organización.,neutral,neutral,neutral
+45,sub,unos,Unos jóvenes participaban en esa organización.,Tres de cuatro jóvenes participaban en esa organización.,neutral,neutral,contradiction
+45,whole,algunos,Algunos jóvenes participaban en esa organización.,Cuatro de cuatro jóvenes participaban en esa organización.,neutral,neutral,neutral
+45,whole,unos,Unos jóvenes participaban en esa organización.,Cuatro de cuatro jóvenes participaban en esa organización.,contradiction,neutral,contradiction
+46,sub,algunos,Algunos insectos vienen de visita a casa.,Tres de cuatro insectos vienen de visita a casa.,neutral,neutral,neutral
+46,sub,unos,Unos insectos vienen de visita a casa.,Tres de cuatro insectos vienen de visita a casa.,contradiction,neutral,contradiction
+46,whole,algunos,Algunos insectos vienen de visita a casa.,Cuatro de cuatro insectos vienen de visita a casa.,neutral,neutral,neutral
+46,whole,unos,Unos insectos vienen de visita a casa.,Cuatro de cuatro insectos vienen de visita a casa.,contradiction,neutral,contradiction
+47,sub,algunos,Algunos familiares les acompañan en la sesión.,Tres de cuatro familiares les acompañan en la sesión.,neutral,neutral,neutral
+47,sub,unos,Unos familiares les acompañan en la sesión.,Tres de cuatro familiares les acompañan en la sesión.,neutral,neutral,neutral
+47,whole,algunos,Algunos familiares les acompañan en la sesión.,Cuatro de cuatro familiares les acompañan en la sesión.,neutral,neutral,neutral
+47,whole,unos,Unos familiares les acompañan en la sesión.,Cuatro de cuatro familiares les acompañan en la sesión.,contradiction,neutral,neutral
+48,sub,algunos,Algunos edificios suponen un alto peligro.,Tres de cuatro edificios suponen un alto peligro.,neutral,neutral,neutral
+48,sub,unos,Unos edificios suponen un alto peligro.,Tres de cuatro edificios suponen un alto peligro.,neutral,neutral,neutral
+48,whole,algunos,Algunos edificios suponen un alto peligro.,Cuatro de cuatro edificios suponen un alto peligro.,neutral,neutral,neutral
+48,whole,unos,Unos edificios suponen un alto peligro.,Cuatro de cuatro edificios suponen un alto peligro.,neutral,neutral,contradiction
+49,sub,algunos,Algunos agujeros han sido tapados.,Tres de cuatro agujeros han sido tapados.,neutral,neutral,neutral
+49,sub,unos,Unos agujeros han sido tapados.,Tres de cuatro agujeros han sido tapados.,neutral,neutral,contradiction
+49,whole,algunos,Algunos agujeros han sido tapados.,Cuatro de cuatro agujeros han sido tapados.,neutral,neutral,neutral
+49,whole,unos,Unos agujeros han sido tapados.,Cuatro de cuatro agujeros han sido tapados.,contradiction,neutral,contradiction
+50,sub,algunos,"Algunos columnistas lo han descrito como ""corrosivo"".","Tres de cuatro columnistas lo han descrito como ""corrosivo"".",neutral,neutral,neutral
+50,sub,unos,"Unos columnistas lo han descrito como ""corrosivo"".","Tres de cuatro columnistas lo han descrito como ""corrosivo"".",contradiction,neutral,neutral
+50,whole,algunos,"Algunos columnistas lo han descrito como ""corrosivo"".","Cuatro de cuatro columnistas lo han descrito como ""corrosivo"".",neutral,neutral,neutral
+50,whole,unos,"Unos columnistas lo han descrito como ""corrosivo"".","Cuatro de cuatro columnistas lo han descrito como ""corrosivo"".",contradiction,neutral,neutral
+51,sub,algunos,Algunos coches han pitado.,Tres de cuatro coches han pitado.,neutral,neutral,neutral
+51,sub,unos,Unos coches han pitado.,Tres de cuatro coches han pitado.,contradiction,neutral,contradiction
+51,whole,algunos,Algunos coches han pitado.,Cuatro de cuatro coches han pitado.,neutral,neutral,neutral
+51,whole,unos,Unos coches han pitado.,Cuatro de cuatro coches han pitado.,contradiction,neutral,contradiction
+52,sub,algunos,Algunos cadáveres presentaban señales de tortura.,Tres de cuatro cadáveres presentaban señales de tortura.,neutral,neutral,neutral
+52,sub,unos,Unos cadáveres presentaban señales de tortura.,Tres de cuatro cadáveres presentaban señales de tortura.,neutral,neutral,contradiction
+52,whole,algunos,Algunos cadáveres presentaban señales de tortura.,Cuatro de cuatro cadáveres presentaban señales de tortura.,neutral,neutral,neutral
+52,whole,unos,Unos cadáveres presentaban señales de tortura.,Cuatro de cuatro cadáveres presentaban señales de tortura.,contradiction,neutral,contradiction
+53,sub,algunos,Algunos animales tienen una suerte.,Tres de cuatro animales tienen una suerte.,neutral,neutral,neutral
+53,sub,unos,Unos animales tienen una suerte.,Tres de cuatro animales tienen una suerte.,neutral,contradiction,neutral
+53,whole,algunos,Algunos animales tienen una suerte.,Cuatro de cuatro animales tienen una suerte.,neutral,neutral,neutral
+53,whole,unos,Unos animales tienen una suerte.,Cuatro de cuatro animales tienen una suerte.,neutral,neutral,neutral
+54,sub,algunos,Algunos francotiradores han entregado sus armas.,Tres de cuatro francotiradores han entregado sus armas.,neutral,neutral,neutral
+54,sub,unos,Unos francotiradores han entregado sus armas.,Tres de cuatro francotiradores han entregado sus armas.,contradiction,neutral,contradiction
+54,whole,algunos,Algunos francotiradores han entregado sus armas.,Cuatro de cuatro francotiradores han entregado sus armas.,neutral,neutral,neutral
+54,whole,unos,Unos francotiradores han entregado sus armas.,Cuatro de cuatro francotiradores han entregado sus armas.,contradiction,neutral,contradiction
+55,sub,algunos,Algunos legisladores salientes han cometido barbaridades.,Tres de cuatro legisladores salientes han cometido barbaridades.,neutral,neutral,neutral
+55,sub,unos,Unos legisladores salientes han cometido barbaridades.,Tres de cuatro legisladores salientes han cometido barbaridades.,neutral,neutral,neutral
+55,whole,algunos,Algunos legisladores salientes han cometido barbaridades.,Cuatro de cuatro legisladores salientes han cometido barbaridades.,neutral,neutral,neutral
+55,whole,unos,Unos legisladores salientes han cometido barbaridades.,Cuatro de cuatro legisladores salientes han cometido barbaridades.,contradiction,neutral,contradiction
+56,sub,algunos,Algunos amigos tienen sus sospechas.,Tres de cuatro amigos tienen sus sospechas.,neutral,neutral,neutral
+56,sub,unos,Unos amigos tienen sus sospechas.,Tres de cuatro amigos tienen sus sospechas.,neutral,neutral,neutral
+56,whole,algunos,Algunos amigos tienen sus sospechas.,Cuatro de cuatro amigos tienen sus sospechas.,neutral,neutral,neutral
+56,whole,unos,Unos amigos tienen sus sospechas.,Cuatro de cuatro amigos tienen sus sospechas.,neutral,neutral,neutral
+57,sub,algunos,Algunos ex funcionarios están siendo enjuiciados.,Tres de cuatro ex funcionarios están siendo enjuiciados.,neutral,neutral,neutral
+57,sub,unos,Unos ex funcionarios están siendo enjuiciados.,Tres de cuatro ex funcionarios están siendo enjuiciados.,neutral,neutral,contradiction
+57,whole,algunos,Algunos ex funcionarios están siendo enjuiciados.,Cuatro de cuatro ex funcionarios están siendo enjuiciados.,neutral,neutral,neutral
+57,whole,unos,Unos ex funcionarios están siendo enjuiciados.,Cuatro de cuatro ex funcionarios están siendo enjuiciados.,contradiction,neutral,contradiction
+58,sub,algunos,Algunos niños la pasaron mal.,Tres de cuatro niños la pasaron mal.,neutral,neutral,neutral
+58,sub,unos,Unos niños la pasaron mal.,Tres de cuatro niños la pasaron mal.,neutral,neutral,contradiction
+58,whole,algunos,Algunos niños la pasaron mal.,Cuatro de cuatro niños la pasaron mal.,neutral,neutral,neutral
+58,whole,unos,Unos niños la pasaron mal.,Cuatro de cuatro niños la pasaron mal.,contradiction,neutral,neutral
+59,sub,algunos,Algunos nenes aparecieron con los ojos colgando.,Tres de cuatro nenes aparecieron con los ojos colgando.,neutral,neutral,neutral
+59,sub,unos,Unos nenes aparecieron con los ojos colgando.,Tres de cuatro nenes aparecieron con los ojos colgando.,neutral,neutral,contradiction
+59,whole,algunos,Algunos nenes aparecieron con los ojos colgando.,Cuatro de cuatro nenes aparecieron con los ojos colgando.,neutral,neutral,neutral
+59,whole,unos,Unos nenes aparecieron con los ojos colgando.,Cuatro de cuatro nenes aparecieron con los ojos colgando.,contradiction,contradiction,contradiction
+60,sub,algunos,Algunos académicos comparten este criterio.,Tres de cuatro académicos comparten este criterio.,neutral,neutral,neutral
+60,sub,unos,Unos académicos comparten este criterio.,Tres de cuatro académicos comparten este criterio.,contradiction,neutral,contradiction
+60,whole,algunos,Algunos académicos comparten este criterio.,Cuatro de cuatro académicos comparten este criterio.,neutral,neutral,neutral
+60,whole,unos,Unos académicos comparten este criterio.,Cuatro de cuatro académicos comparten este criterio.,contradiction,neutral,contradiction
+61,sub,algunos,Algunos funcionarios no están de acuerdo.,Tres de cuatro funcionarios no están de acuerdo.,neutral,neutral,neutral
+61,sub,unos,Unos funcionarios no están de acuerdo.,Tres de cuatro funcionarios no están de acuerdo.,neutral,neutral,neutral
+61,whole,algunos,Algunos funcionarios no están de acuerdo.,Cuatro de cuatro funcionarios no están de acuerdo.,neutral,neutral,neutral
+61,whole,unos,Unos funcionarios no están de acuerdo.,Cuatro de cuatro funcionarios no están de acuerdo.,neutral,neutral,neutral
+62,sub,algunos,Algunos jóvenes enmascarados saquearon varias tiendas.,Tres de cuatro jóvenes enmascarados saquearon varias tiendas.,neutral,neutral,neutral
+62,sub,unos,Unos jóvenes enmascarados saquearon varias tiendas.,Tres de cuatro jóvenes enmascarados saquearon varias tiendas.,neutral,neutral,contradiction
+62,whole,algunos,Algunos jóvenes enmascarados saquearon varias tiendas.,Cuatro de cuatro jóvenes enmascarados saquearon varias tiendas.,neutral,neutral,neutral
+62,whole,unos,Unos jóvenes enmascarados saquearon varias tiendas.,Cuatro de cuatro jóvenes enmascarados saquearon varias tiendas.,contradiction,neutral,contradiction
+63,sub,algunos,Algunos amigos en Costa Rica están inquietos.,Tres de cuatro amigos en Costa Rica están inquietos.,neutral,neutral,neutral
+63,sub,unos,Unos amigos en Costa Rica están inquietos.,Tres de cuatro amigos en Costa Rica están inquietos.,neutral,neutral,neutral
+63,whole,algunos,Algunos amigos en Costa Rica están inquietos.,Cuatro de cuatro amigos en Costa Rica están inquietos.,neutral,neutral,neutral
+63,whole,unos,Unos amigos en Costa Rica están inquietos.,Cuatro de cuatro amigos en Costa Rica están inquietos.,neutral,neutral,contradiction
+64,sub,algunos,Algunos amigos no ayudaban.,Tres de cuatro amigos no ayudaban.,neutral,neutral,neutral
+64,sub,unos,Unos amigos no ayudaban.,Tres de cuatro amigos no ayudaban.,neutral,neutral,neutral
+64,whole,algunos,Algunos amigos no ayudaban.,Cuatro de cuatro amigos no ayudaban.,neutral,neutral,neutral
+64,whole,unos,Unos amigos no ayudaban.,Cuatro de cuatro amigos no ayudaban.,contradiction,neutral,neutral
+65,sub,algunos,Algunos presos políticos serán puestos en libertad.,Tres de cuatro presos políticos serán puestos en libertad.,neutral,neutral,neutral
+65,sub,unos,Unos presos políticos serán puestos en libertad.,Tres de cuatro presos políticos serán puestos en libertad.,contradiction,neutral,contradiction
+65,whole,algunos,Algunos presos políticos serán puestos en libertad.,Cuatro de cuatro presos políticos serán puestos en libertad.,neutral,neutral,neutral
+65,whole,unos,Unos presos políticos serán puestos en libertad.,Cuatro de cuatro presos políticos serán puestos en libertad.,contradiction,neutral,contradiction
+66,sub,algunos,Algunos pepenadores hicieron su agosto.,Tres de cuatro pepenadores hicieron su agosto.,neutral,neutral,neutral
+66,sub,unos,Unos pepenadores hicieron su agosto.,Tres de cuatro pepenadores hicieron su agosto.,contradiction,neutral,neutral
+66,whole,algunos,Algunos pepenadores hicieron su agosto.,Cuatro de cuatro pepenadores hicieron su agosto.,neutral,neutral,neutral
+66,whole,unos,Unos pepenadores hicieron su agosto.,Cuatro de cuatro pepenadores hicieron su agosto.,contradiction,neutral,contradiction
+67,sub,algunos,Algunos analistas así lo estiman.,Tres de cuatro analistas así lo estiman.,neutral,neutral,neutral
+67,sub,unos,Unos analistas así lo estiman.,Tres de cuatro analistas así lo estiman.,neutral,contradiction,neutral
+67,whole,algunos,Algunos analistas así lo estiman.,Cuatro de cuatro analistas así lo estiman.,neutral,neutral,neutral
+67,whole,unos,Unos analistas así lo estiman.,Cuatro de cuatro analistas así lo estiman.,neutral,contradiction,contradiction
+68,sub,algunos,Algunos enfermos requieren hasta de 15 cirugías.,Tres de cuatro enfermos requieren hasta de 15 cirugías.,neutral,neutral,neutral
+68,sub,unos,Unos enfermos requieren hasta de 15 cirugías.,Tres de cuatro enfermos requieren hasta de 15 cirugías.,contradiction,contradiction,neutral
+68,whole,algunos,Algunos enfermos requieren hasta de 15 cirugías.,Cuatro de cuatro enfermos requieren hasta de 15 cirugías.,neutral,neutral,neutral
+68,whole,unos,Unos enfermos requieren hasta de 15 cirugías.,Cuatro de cuatro enfermos requieren hasta de 15 cirugías.,contradiction,neutral,neutral
+69,sub,algunos,Algunos analistas especularon.,Tres de cuatro analistas especularon.,neutral,neutral,neutral
+69,sub,unos,Unos analistas especularon.,Tres de cuatro analistas especularon.,neutral,neutral,contradiction
+69,whole,algunos,Algunos analistas especularon.,Cuatro de cuatro analistas especularon.,neutral,neutral,neutral
+69,whole,unos,Unos analistas especularon.,Cuatro de cuatro analistas especularon.,contradiction,neutral,contradiction
+70,sub,algunos,Algunos lugareños no concilian el sueño.,Tres de cuatro lugareños no concilian el sueño.,neutral,neutral,neutral
+70,sub,unos,Unos lugareños no concilian el sueño.,Tres de cuatro lugareños no concilian el sueño.,neutral,neutral,neutral
+70,whole,algunos,Algunos lugareños no concilian el sueño.,Cuatro de cuatro lugareños no concilian el sueño.,neutral,neutral,neutral
+70,whole,unos,Unos lugareños no concilian el sueño.,Cuatro de cuatro lugareños no concilian el sueño.,neutral,neutral,neutral
+71,sub,algunos,Algunos ministros apoyaron a Chaves.,Tres de cuatro ministros apoyaron a Chaves.,neutral,neutral,neutral
+71,sub,unos,Unos ministros apoyaron a Chaves.,Tres de cuatro ministros apoyaron a Chaves.,neutral,neutral,neutral
+71,whole,algunos,Algunos ministros apoyaron a Chaves.,Cuatro de cuatro ministros apoyaron a Chaves.,neutral,neutral,neutral
+71,whole,unos,Unos ministros apoyaron a Chaves.,Cuatro de cuatro ministros apoyaron a Chaves.,contradiction,neutral,contradiction
+72,sub,algunos,Algunos críticos gastronómicos deberían animarse.,Tres de cuatro críticos gastronómicos deberían animarse.,neutral,neutral,neutral
+72,sub,unos,Unos críticos gastronómicos deberían animarse.,Tres de cuatro críticos gastronómicos deberían animarse.,neutral,neutral,contradiction
+72,whole,algunos,Algunos críticos gastronómicos deberían animarse.,Cuatro de cuatro críticos gastronómicos deberían animarse.,neutral,neutral,neutral
+72,whole,unos,Unos críticos gastronómicos deberían animarse.,Cuatro de cuatro críticos gastronómicos deberían animarse.,neutral,neutral,contradiction
+73,sub,algunos,Algunos lesionados fueron rematados.,Tres de cuatro lesionados fueron rematados.,neutral,neutral,neutral
+73,sub,unos,Unos lesionados fueron rematados.,Tres de cuatro lesionados fueron rematados.,contradiction,contradiction,contradiction
+73,whole,algunos,Algunos lesionados fueron rematados.,Cuatro de cuatro lesionados fueron rematados.,neutral,neutral,neutral
+73,whole,unos,Unos lesionados fueron rematados.,Cuatro de cuatro lesionados fueron rematados.,contradiction,contradiction,contradiction
+74,sub,algunos,Algunos vendedores incluyen sus correos electrónicos.,Tres de cuatro vendedores incluyen sus correos electrónicos.,neutral,neutral,neutral
+74,sub,unos,Unos vendedores incluyen sus correos electrónicos.,Tres de cuatro vendedores incluyen sus correos electrónicos.,neutral,contradiction,neutral
+74,whole,algunos,Algunos vendedores incluyen sus correos electrónicos.,Cuatro de cuatro vendedores incluyen sus correos electrónicos.,neutral,neutral,neutral
+74,whole,unos,Unos vendedores incluyen sus correos electrónicos.,Cuatro de cuatro vendedores incluyen sus correos electrónicos.,contradiction,contradiction,neutral
+75,sub,algunos,Algunos científicos hablan de 100.000 barriles diarios.,Tres de cuatro científicos hablan de 100.000 barriles diarios.,neutral,neutral,neutral
+75,sub,unos,Unos científicos hablan de 100.000 barriles diarios.,Tres de cuatro científicos hablan de 100.000 barriles diarios.,contradiction,neutral,contradiction
+75,whole,algunos,Algunos científicos hablan de 100.000 barriles diarios.,Cuatro de cuatro científicos hablan de 100.000 barriles diarios.,neutral,neutral,neutral
+75,whole,unos,Unos científicos hablan de 100.000 barriles diarios.,Cuatro de cuatro científicos hablan de 100.000 barriles diarios.,contradiction,neutral,contradiction
+76,sub,algunos,Algunos militares han sido condenados.,Tres de cuatro militares han sido condenados.,neutral,neutral,neutral
+76,sub,unos,Unos militares han sido condenados.,Tres de cuatro militares han sido condenados.,contradiction,neutral,contradiction
+76,whole,algunos,Algunos militares han sido condenados.,Cuatro de cuatro militares han sido condenados.,neutral,neutral,neutral
+76,whole,unos,Unos militares han sido condenados.,Cuatro de cuatro militares han sido condenados.,contradiction,neutral,contradiction
+77,sub,algunos,Algunos vecinos la acompañan para contenerla.,Tres de cuatro vecinos la acompañan para contenerla.,neutral,neutral,neutral
+77,sub,unos,Unos vecinos la acompañan para contenerla.,Tres de cuatro vecinos la acompañan para contenerla.,contradiction,neutral,contradiction
+77,whole,algunos,Algunos vecinos la acompañan para contenerla.,Cuatro de cuatro vecinos la acompañan para contenerla.,neutral,neutral,neutral
+77,whole,unos,Unos vecinos la acompañan para contenerla.,Cuatro de cuatro vecinos la acompañan para contenerla.,contradiction,neutral,contradiction
+78,sub,algunos,Algunos futbolistas están en deuda.,Tres de cuatro futbolistas están en deuda.,neutral,neutral,neutral
+78,sub,unos,Unos futbolistas están en deuda.,Tres de cuatro futbolistas están en deuda.,contradiction,neutral,contradiction
+78,whole,algunos,Algunos futbolistas están en deuda.,Cuatro de cuatro futbolistas están en deuda.,neutral,neutral,neutral
+78,whole,unos,Unos futbolistas están en deuda.,Cuatro de cuatro futbolistas están en deuda.,contradiction,neutral,contradiction
+79,sub,algunos,Algunos fotógrafos confiesan su impotencia.,Tres de cuatro fotógrafos confiesan su impotencia.,neutral,neutral,neutral
+79,sub,unos,Unos fotógrafos confiesan su impotencia.,Tres de cuatro fotógrafos confiesan su impotencia.,neutral,neutral,neutral
+79,whole,algunos,Algunos fotógrafos confiesan su impotencia.,Cuatro de cuatro fotógrafos confiesan su impotencia.,neutral,neutral,neutral
+79,whole,unos,Unos fotógrafos confiesan su impotencia.,Cuatro de cuatro fotógrafos confiesan su impotencia.,contradiction,neutral,contradiction
+80,sub,algunos,Algunos marineros optaron por quedarse.,Tres de cuatro marineros optaron por quedarse.,neutral,neutral,neutral
+80,sub,unos,Unos marineros optaron por quedarse.,Tres de cuatro marineros optaron por quedarse.,contradiction,neutral,neutral
+80,whole,algunos,Algunos marineros optaron por quedarse.,Cuatro de cuatro marineros optaron por quedarse.,neutral,neutral,neutral
+80,whole,unos,Unos marineros optaron por quedarse.,Cuatro de cuatro marineros optaron por quedarse.,contradiction,neutral,contradiction
+81,sub,algunos,Algunos artistas invitados iniciaron el concierto.,Tres de cuatro artistas invitados iniciaron el concierto.,neutral,neutral,neutral
+81,sub,unos,Unos artistas invitados iniciaron el concierto.,Tres de cuatro artistas invitados iniciaron el concierto.,contradiction,neutral,neutral
+81,whole,algunos,Algunos artistas invitados iniciaron el concierto.,Cuatro de cuatro artistas invitados iniciaron el concierto.,neutral,neutral,neutral
+81,whole,unos,Unos artistas invitados iniciaron el concierto.,Cuatro de cuatro artistas invitados iniciaron el concierto.,contradiction,neutral,neutral
+82,sub,algunos,Algunos jueces las han rechazado.,Tres de cuatro jueces las han rechazado.,neutral,neutral,neutral
+82,sub,unos,Unos jueces las han rechazado.,Tres de cuatro jueces las han rechazado.,contradiction,neutral,neutral
+82,whole,algunos,Algunos jueces las han rechazado.,Cuatro de cuatro jueces las han rechazado.,neutral,neutral,neutral
+82,whole,unos,Unos jueces las han rechazado.,Cuatro de cuatro jueces las han rechazado.,contradiction,neutral,neutral
+83,sub,algunos,Algunos críticos dicen: 'Me he reído mucho.',Tres de cuatro críticos dicen: 'Me he reído mucho.',neutral,neutral,neutral
+83,sub,unos,Unos críticos dicen: 'Me he reído mucho.',Tres de cuatro críticos dicen: 'Me he reído mucho.',neutral,neutral,neutral
+83,whole,algunos,Algunos críticos dicen: 'Me he reído mucho.',Cuatro de cuatro críticos dicen: 'Me he reído mucho.',neutral,neutral,neutral
+83,whole,unos,Unos críticos dicen: 'Me he reído mucho.',Cuatro de cuatro críticos dicen: 'Me he reído mucho.',neutral,neutral,neutral
+84,sub,algunos,Algunos juguetes seguían en sus cajas.,Tres de cuatro juguetes seguían en sus cajas.,neutral,neutral,neutral
+84,sub,unos,Unos juguetes seguían en sus cajas.,Tres de cuatro juguetes seguían en sus cajas.,neutral,neutral,neutral
+84,whole,algunos,Algunos juguetes seguían en sus cajas.,Cuatro de cuatro juguetes seguían en sus cajas.,neutral,neutral,neutral
+84,whole,unos,Unos juguetes seguían en sus cajas.,Cuatro de cuatro juguetes seguían en sus cajas.,contradiction,neutral,contradiction
+85,sub,algunos,Algunos autores nos ayudan.,Tres de cuatro autores nos ayudan.,neutral,neutral,neutral
+85,sub,unos,Unos autores nos ayudan.,Tres de cuatro autores nos ayudan.,neutral,neutral,contradiction
+85,whole,algunos,Algunos autores nos ayudan.,Cuatro de cuatro autores nos ayudan.,neutral,neutral,neutral
+85,whole,unos,Unos autores nos ayudan.,Cuatro de cuatro autores nos ayudan.,neutral,neutral,contradiction
+86,sub,algunos,Algunos publicistas objetaron la ética del procedimiento.,Tres de cuatro publicistas objetaron la ética del procedimiento.,neutral,neutral,neutral
+86,sub,unos,Unos publicistas objetaron la ética del procedimiento.,Tres de cuatro publicistas objetaron la ética del procedimiento.,neutral,neutral,contradiction
+86,whole,algunos,Algunos publicistas objetaron la ética del procedimiento.,Cuatro de cuatro publicistas objetaron la ética del procedimiento.,neutral,neutral,neutral
+86,whole,unos,Unos publicistas objetaron la ética del procedimiento.,Cuatro de cuatro publicistas objetaron la ética del procedimiento.,contradiction,neutral,contradiction
+87,sub,algunos,Algunos jóvenes venden drogas sentados en sillas.,Tres de cuatro jóvenes venden drogas sentados en sillas.,neutral,neutral,neutral
+87,sub,unos,Unos jóvenes venden drogas sentados en sillas.,Tres de cuatro jóvenes venden drogas sentados en sillas.,neutral,neutral,contradiction
+87,whole,algunos,Algunos jóvenes venden drogas sentados en sillas.,Cuatro de cuatro jóvenes venden drogas sentados en sillas.,neutral,neutral,neutral
+87,whole,unos,Unos jóvenes venden drogas sentados en sillas.,Cuatro de cuatro jóvenes venden drogas sentados en sillas.,contradiction,neutral,contradiction
+88,sub,algunos,Algunos pacientes duermen.,Tres de cuatro pacientes duermen.,neutral,neutral,neutral
+88,sub,unos,Unos pacientes duermen.,Tres de cuatro pacientes duermen.,contradiction,neutral,contradiction
+88,whole,algunos,Algunos pacientes duermen.,Cuatro de cuatro pacientes duermen.,neutral,neutral,neutral
+88,whole,unos,Unos pacientes duermen.,Cuatro de cuatro pacientes duermen.,contradiction,neutral,contradiction
+89,sub,algunos,Algunos antropólogos les secundan.,Tres de cuatro antropólogos les secundan.,neutral,neutral,neutral
+89,sub,unos,Unos antropólogos les secundan.,Tres de cuatro antropólogos les secundan.,contradiction,neutral,neutral
+89,whole,algunos,Algunos antropólogos les secundan.,Cuatro de cuatro antropólogos les secundan.,neutral,neutral,neutral
+89,whole,unos,Unos antropólogos les secundan.,Cuatro de cuatro antropólogos les secundan.,contradiction,neutral,contradiction
+90,sub,algunos,Algunos analistas dudan de ello.,Tres de cuatro analistas dudan de ello.,neutral,neutral,neutral
+90,sub,unos,Unos analistas dudan de ello.,Tres de cuatro analistas dudan de ello.,neutral,neutral,contradiction
+90,whole,algunos,Algunos analistas dudan de ello.,Cuatro de cuatro analistas dudan de ello.,neutral,neutral,neutral
+90,whole,unos,Unos analistas dudan de ello.,Cuatro de cuatro analistas dudan de ello.,contradiction,neutral,contradiction
+91,sub,algunos,Algunos expertos han aumentado esa crítica negativa.,Tres de cuatro expertos han aumentado esa crítica negativa.,neutral,neutral,neutral
+91,sub,unos,Unos expertos han aumentado esa crítica negativa.,Tres de cuatro expertos han aumentado esa crítica negativa.,neutral,neutral,neutral
+91,whole,algunos,Algunos expertos han aumentado esa crítica negativa.,Cuatro de cuatro expertos han aumentado esa crítica negativa.,neutral,neutral,neutral
+91,whole,unos,Unos expertos han aumentado esa crítica negativa.,Cuatro de cuatro expertos han aumentado esa crítica negativa.,neutral,neutral,neutral
+92,sub,algunos,Algunos hombres me llamaban traidor.,Tres de cuatro hombres me llamaban traidor.,neutral,neutral,neutral
+92,sub,unos,Unos hombres me llamaban traidor.,Tres de cuatro hombres me llamaban traidor.,neutral,neutral,neutral
+92,whole,algunos,Algunos hombres me llamaban traidor.,Cuatro de cuatro hombres me llamaban traidor.,neutral,neutral,neutral
+92,whole,unos,Unos hombres me llamaban traidor.,Cuatro de cuatro hombres me llamaban traidor.,neutral,neutral,neutral
+93,sub,algunos,Algunos empresarios hacían ayer una broma.,Tres de cuatro empresarios hacían ayer una broma.,neutral,neutral,neutral
+93,sub,unos,Unos empresarios hacían ayer una broma.,Tres de cuatro empresarios hacían ayer una broma.,neutral,neutral,contradiction
+93,whole,algunos,Algunos empresarios hacían ayer una broma.,Cuatro de cuatro empresarios hacían ayer una broma.,neutral,neutral,neutral
+93,whole,unos,Unos empresarios hacían ayer una broma.,Cuatro de cuatro empresarios hacían ayer una broma.,contradiction,neutral,contradiction
+94,sub,algunos,Algunos doctores poseen ese extraño sentido.,Tres de cuatro doctores poseen ese extraño sentido.,neutral,neutral,neutral
+94,sub,unos,Unos doctores poseen ese extraño sentido.,Tres de cuatro doctores poseen ese extraño sentido.,neutral,contradiction,neutral
+94,whole,algunos,Algunos doctores poseen ese extraño sentido.,Cuatro de cuatro doctores poseen ese extraño sentido.,neutral,neutral,neutral
+94,whole,unos,Unos doctores poseen ese extraño sentido.,Cuatro de cuatro doctores poseen ese extraño sentido.,neutral,neutral,neutral
+95,sub,algunos,Algunos jueces no concuerdan.,Tres de cuatro jueces no concuerdan.,neutral,neutral,neutral
+95,sub,unos,Unos jueces no concuerdan.,Tres de cuatro jueces no concuerdan.,neutral,neutral,neutral
+95,whole,algunos,Algunos jueces no concuerdan.,Cuatro de cuatro jueces no concuerdan.,neutral,neutral,neutral
+95,whole,unos,Unos jueces no concuerdan.,Cuatro de cuatro jueces no concuerdan.,contradiction,neutral,contradiction
+96,sub,algunos,Algunos científicos discrepan con esa evaluación.,Tres de cuatro científicos discrepan con esa evaluación.,neutral,neutral,neutral
+96,sub,unos,Unos científicos discrepan con esa evaluación.,Tres de cuatro científicos discrepan con esa evaluación.,neutral,neutral,contradiction
+96,whole,algunos,Algunos científicos discrepan con esa evaluación.,Cuatro de cuatro científicos discrepan con esa evaluación.,neutral,neutral,neutral
+96,whole,unos,Unos científicos discrepan con esa evaluación.,Cuatro de cuatro científicos discrepan con esa evaluación.,contradiction,neutral,contradiction
+97,sub,algunos,Algunos familiares las esperan.,Tres de cuatro familiares las esperan.,neutral,neutral,neutral
+97,sub,unos,Unos familiares las esperan.,Tres de cuatro familiares las esperan.,contradiction,neutral,contradiction
+97,whole,algunos,Algunos familiares las esperan.,Cuatro de cuatro familiares las esperan.,neutral,neutral,neutral
+97,whole,unos,Unos familiares las esperan.,Cuatro de cuatro familiares las esperan.,contradiction,neutral,contradiction
+98,sub,algunos,Algunos estadounidenses contemplan también esa protección.,Tres de cuatro estadounidenses contemplan también esa protección.,neutral,neutral,neutral
+98,sub,unos,Unos estadounidenses contemplan también esa protección.,Tres de cuatro estadounidenses contemplan también esa protección.,neutral,neutral,neutral
+98,whole,algunos,Algunos estadounidenses contemplan también esa protección.,Cuatro de cuatro estadounidenses contemplan también esa protección.,neutral,neutral,neutral
+98,whole,unos,Unos estadounidenses contemplan también esa protección.,Cuatro de cuatro estadounidenses contemplan también esa protección.,neutral,neutral,neutral
+99,sub,algunos,Algunos asistentes aplaudieron.,Tres de cuatro asistentes aplaudieron.,neutral,neutral,neutral
+99,sub,unos,Unos asistentes aplaudieron.,Tres de cuatro asistentes aplaudieron.,contradiction,neutral,contradiction
+99,whole,algunos,Algunos asistentes aplaudieron.,Cuatro de cuatro asistentes aplaudieron.,neutral,neutral,neutral
+99,whole,unos,Unos asistentes aplaudieron.,Cuatro de cuatro asistentes aplaudieron.,contradiction,neutral,contradiction
+100,sub,algunos,Algunos residentes parecían decididos a quedarse.,Tres de cuatro residentes parecían decididos a quedarse.,neutral,neutral,neutral
+100,sub,unos,Unos residentes parecían decididos a quedarse.,Tres de cuatro residentes parecían decididos a quedarse.,neutral,contradiction,neutral
+100,whole,algunos,Algunos residentes parecían decididos a quedarse.,Cuatro de cuatro residentes parecían decididos a quedarse.,neutral,neutral,neutral
+100,whole,unos,Unos residentes parecían decididos a quedarse.,Cuatro de cuatro residentes parecían decididos a quedarse.,contradiction,contradiction,contradiction
+101,sub,algunos,Algunos analistas habían estimado una pérdida trimestral.,Tres de cuatro analistas habían estimado una pérdida trimestral.,neutral,neutral,neutral
+101,sub,unos,Unos analistas habían estimado una pérdida trimestral.,Tres de cuatro analistas habían estimado una pérdida trimestral.,neutral,contradiction,neutral
+101,whole,algunos,Algunos analistas habían estimado una pérdida trimestral.,Cuatro de cuatro analistas habían estimado una pérdida trimestral.,neutral,neutral,neutral
+101,whole,unos,Unos analistas habían estimado una pérdida trimestral.,Cuatro de cuatro analistas habían estimado una pérdida trimestral.,contradiction,neutral,contradiction
+102,sub,algunos,Algunos jugadores están amenazando con no presentarse.,Tres de cuatro jugadores están amenazando con no presentarse.,neutral,neutral,neutral
+102,sub,unos,Unos jugadores están amenazando con no presentarse.,Tres de cuatro jugadores están amenazando con no presentarse.,neutral,contradiction,neutral
+102,whole,algunos,Algunos jugadores están amenazando con no presentarse.,Cuatro de cuatro jugadores están amenazando con no presentarse.,neutral,neutral,neutral
+102,whole,unos,Unos jugadores están amenazando con no presentarse.,Cuatro de cuatro jugadores están amenazando con no presentarse.,contradiction,neutral,neutral
+103,sub,algunos,Algunos políticos podrán respirar tranquilos.,Tres de cuatro políticos podrán respirar tranquilos.,neutral,neutral,neutral
+103,sub,unos,Unos políticos podrán respirar tranquilos.,Tres de cuatro políticos podrán respirar tranquilos.,neutral,neutral,neutral
+103,whole,algunos,Algunos políticos podrán respirar tranquilos.,Cuatro de cuatro políticos podrán respirar tranquilos.,neutral,neutral,neutral
+103,whole,unos,Unos políticos podrán respirar tranquilos.,Cuatro de cuatro políticos podrán respirar tranquilos.,contradiction,neutral,neutral
+104,sub,algunos,Algunos residentes que protestaron fueron detenidos.,Tres de cuatro residentes que protestaron fueron detenidos.,neutral,neutral,neutral
+104,sub,unos,Unos residentes que protestaron fueron detenidos.,Tres de cuatro residentes que protestaron fueron detenidos.,neutral,neutral,neutral
+104,whole,algunos,Algunos residentes que protestaron fueron detenidos.,Cuatro de cuatro residentes que protestaron fueron detenidos.,neutral,neutral,neutral
+104,whole,unos,Unos residentes que protestaron fueron detenidos.,Cuatro de cuatro residentes que protestaron fueron detenidos.,contradiction,neutral,contradiction
+105,sub,algunos,Algunos colegas tuvieron dificultades.,Tres de cuatro colegas tuvieron dificultades.,neutral,neutral,neutral
+105,sub,unos,Unos colegas tuvieron dificultades.,Tres de cuatro colegas tuvieron dificultades.,neutral,neutral,contradiction
+105,whole,algunos,Algunos colegas tuvieron dificultades.,Cuatro de cuatro colegas tuvieron dificultades.,neutral,neutral,neutral
+105,whole,unos,Unos colegas tuvieron dificultades.,Cuatro de cuatro colegas tuvieron dificultades.,contradiction,neutral,contradiction
+106,sub,algunos,Algunos compañeros le consideran un vendido.,Tres de cuatro compañeros le consideran un vendido.,neutral,neutral,neutral
+106,sub,unos,Unos compañeros le consideran un vendido.,Tres de cuatro compañeros le consideran un vendido.,neutral,neutral,neutral
+106,whole,algunos,Algunos compañeros le consideran un vendido.,Cuatro de cuatro compañeros le consideran un vendido.,neutral,neutral,neutral
+106,whole,unos,Unos compañeros le consideran un vendido.,Cuatro de cuatro compañeros le consideran un vendido.,contradiction,neutral,neutral
+107,sub,algunos,Algunos analistas están menos seguros.,Tres de cuatro analistas están menos seguros.,neutral,neutral,neutral
+107,sub,unos,Unos analistas están menos seguros.,Tres de cuatro analistas están menos seguros.,neutral,neutral,neutral
+107,whole,algunos,Algunos analistas están menos seguros.,Cuatro de cuatro analistas están menos seguros.,neutral,neutral,neutral
+107,whole,unos,Unos analistas están menos seguros.,Cuatro de cuatro analistas están menos seguros.,neutral,neutral,neutral
+108,sub,algunos,Algunos hispanos sienten este rechazo en carne propia.,Tres de cuatro hispanos sienten este rechazo en carne propia.,neutral,neutral,neutral
+108,sub,unos,Unos hispanos sienten este rechazo en carne propia.,Tres de cuatro hispanos sienten este rechazo en carne propia.,neutral,neutral,contradiction
+108,whole,algunos,Algunos hispanos sienten este rechazo en carne propia.,Cuatro de cuatro hispanos sienten este rechazo en carne propia.,neutral,neutral,neutral
+108,whole,unos,Unos hispanos sienten este rechazo en carne propia.,Cuatro de cuatro hispanos sienten este rechazo en carne propia.,contradiction,neutral,contradiction
+109,sub,algunos,Algunos periodistas dijeron que no iba a torear.,Tres de cuatro periodistas dijeron que no iba a torear.,neutral,neutral,neutral
+109,sub,unos,Unos periodistas dijeron que no iba a torear.,Tres de cuatro periodistas dijeron que no iba a torear.,neutral,neutral,neutral
+109,whole,algunos,Algunos periodistas dijeron que no iba a torear.,Cuatro de cuatro periodistas dijeron que no iba a torear.,neutral,neutral,neutral
+109,whole,unos,Unos periodistas dijeron que no iba a torear.,Cuatro de cuatro periodistas dijeron que no iba a torear.,neutral,neutral,neutral
+110,sub,algunos,Algunos pobladores preferían usar los verdaderos nombres.,Tres de cuatro pobladores preferían usar los verdaderos nombres.,neutral,neutral,neutral
+110,sub,unos,Unos pobladores preferían usar los verdaderos nombres.,Tres de cuatro pobladores preferían usar los verdaderos nombres.,neutral,neutral,neutral
+110,whole,algunos,Algunos pobladores preferían usar los verdaderos nombres.,Cuatro de cuatro pobladores preferían usar los verdaderos nombres.,neutral,neutral,neutral
+110,whole,unos,Unos pobladores preferían usar los verdaderos nombres.,Cuatro de cuatro pobladores preferían usar los verdaderos nombres.,neutral,neutral,neutral
+111,sub,algunos,Algunos pacientes están muy enfermos.,Tres de cuatro pacientes están muy enfermos.,neutral,neutral,neutral
+111,sub,unos,Unos pacientes están muy enfermos.,Tres de cuatro pacientes están muy enfermos.,neutral,neutral,neutral
+111,whole,algunos,Algunos pacientes están muy enfermos.,Cuatro de cuatro pacientes están muy enfermos.,neutral,neutral,neutral
+111,whole,unos,Unos pacientes están muy enfermos.,Cuatro de cuatro pacientes están muy enfermos.,contradiction,neutral,neutral
+112,sub,algunos,Algunos vecinos intentan comprender.,Tres de cuatro vecinos intentan comprender.,neutral,neutral,neutral
+112,sub,unos,Unos vecinos intentan comprender.,Tres de cuatro vecinos intentan comprender.,neutral,neutral,contradiction
+112,whole,algunos,Algunos vecinos intentan comprender.,Cuatro de cuatro vecinos intentan comprender.,neutral,neutral,neutral
+112,whole,unos,Unos vecinos intentan comprender.,Cuatro de cuatro vecinos intentan comprender.,contradiction,neutral,contradiction
+113,sub,algunos,Algunos mosquitos transmiten el paludismo al hombre.,Tres de cuatro mosquitos transmiten el paludismo al hombre.,neutral,neutral,neutral
+113,sub,unos,Unos mosquitos transmiten el paludismo al hombre.,Tres de cuatro mosquitos transmiten el paludismo al hombre.,neutral,neutral,contradiction
+113,whole,algunos,Algunos mosquitos transmiten el paludismo al hombre.,Cuatro de cuatro mosquitos transmiten el paludismo al hombre.,neutral,neutral,neutral
+113,whole,unos,Unos mosquitos transmiten el paludismo al hombre.,Cuatro de cuatro mosquitos transmiten el paludismo al hombre.,contradiction,neutral,contradiction
+114,sub,algunos,Algunos vehículos han quedado para el desguace.,Tres de cuatro vehículos han quedado para el desguace.,neutral,neutral,neutral
+114,sub,unos,Unos vehículos han quedado para el desguace.,Tres de cuatro vehículos han quedado para el desguace.,neutral,neutral,neutral
+114,whole,algunos,Algunos vehículos han quedado para el desguace.,Cuatro de cuatro vehículos han quedado para el desguace.,neutral,neutral,neutral
+114,whole,unos,Unos vehículos han quedado para el desguace.,Cuatro de cuatro vehículos han quedado para el desguace.,contradiction,neutral,contradiction
+115,sub,algunos,Algunos infantes comparten sin necesidad de enseñarles.,Tres de cuatro infantes comparten sin necesidad de enseñarles.,neutral,neutral,neutral
+115,sub,unos,Unos infantes comparten sin necesidad de enseñarles.,Tres de cuatro infantes comparten sin necesidad de enseñarles.,neutral,neutral,neutral
+115,whole,algunos,Algunos infantes comparten sin necesidad de enseñarles.,Cuatro de cuatro infantes comparten sin necesidad de enseñarles.,neutral,neutral,neutral
+115,whole,unos,Unos infantes comparten sin necesidad de enseñarles.,Cuatro de cuatro infantes comparten sin necesidad de enseñarles.,contradiction,neutral,neutral
+116,sub,algunos,Algunos proyectos han sido desechados.,Tres de cuatro proyectos han sido desechados.,neutral,neutral,neutral
+116,sub,unos,Unos proyectos han sido desechados.,Tres de cuatro proyectos han sido desechados.,neutral,neutral,neutral
+116,whole,algunos,Algunos proyectos han sido desechados.,Cuatro de cuatro proyectos han sido desechados.,neutral,neutral,neutral
+116,whole,unos,Unos proyectos han sido desechados.,Cuatro de cuatro proyectos han sido desechados.,neutral,neutral,contradiction
+117,sub,algunos,Algunos jugadores tuvieron problemas.,Tres de cuatro jugadores tuvieron problemas.,neutral,neutral,neutral
+117,sub,unos,Unos jugadores tuvieron problemas.,Tres de cuatro jugadores tuvieron problemas.,contradiction,neutral,contradiction
+117,whole,algunos,Algunos jugadores tuvieron problemas.,Cuatro de cuatro jugadores tuvieron problemas.,neutral,neutral,neutral
+117,whole,unos,Unos jugadores tuvieron problemas.,Cuatro de cuatro jugadores tuvieron problemas.,contradiction,contradiction,contradiction
+118,sub,algunos,Algunos conductores han expresado sus quejas.,Tres de cuatro conductores han expresado sus quejas.,neutral,neutral,neutral
+118,sub,unos,Unos conductores han expresado sus quejas.,Tres de cuatro conductores han expresado sus quejas.,neutral,neutral,neutral
+118,whole,algunos,Algunos conductores han expresado sus quejas.,Cuatro de cuatro conductores han expresado sus quejas.,neutral,neutral,neutral
+118,whole,unos,Unos conductores han expresado sus quejas.,Cuatro de cuatro conductores han expresado sus quejas.,contradiction,neutral,contradiction
+119,sub,algunos,Algunos magistrados ayer intentaron responder la pregunta.,Tres de cuatro magistrados ayer intentaron responder la pregunta.,neutral,neutral,neutral
+119,sub,unos,Unos magistrados ayer intentaron responder la pregunta.,Tres de cuatro magistrados ayer intentaron responder la pregunta.,contradiction,neutral,contradiction
+119,whole,algunos,Algunos magistrados ayer intentaron responder la pregunta.,Cuatro de cuatro magistrados ayer intentaron responder la pregunta.,neutral,neutral,neutral
+119,whole,unos,Unos magistrados ayer intentaron responder la pregunta.,Cuatro de cuatro magistrados ayer intentaron responder la pregunta.,contradiction,neutral,contradiction
+120,sub,algunos,Algunos escritores catalanes deciden escribir en castellano.,Tres de cuatro escritores catalanes deciden escribir en castellano.,neutral,neutral,neutral
+120,sub,unos,Unos escritores catalanes deciden escribir en castellano.,Tres de cuatro escritores catalanes deciden escribir en castellano.,neutral,neutral,neutral
+120,whole,algunos,Algunos escritores catalanes deciden escribir en castellano.,Cuatro de cuatro escritores catalanes deciden escribir en castellano.,neutral,neutral,neutral
+120,whole,unos,Unos escritores catalanes deciden escribir en castellano.,Cuatro de cuatro escritores catalanes deciden escribir en castellano.,contradiction,neutral,contradiction
+121,sub,algunos,Algunos casos han resultado ser mortales.,Tres de cuatro casos han resultado ser mortales.,neutral,neutral,neutral
+121,sub,unos,Unos casos han resultado ser mortales.,Tres de cuatro casos han resultado ser mortales.,neutral,contradiction,contradiction
+121,whole,algunos,Algunos casos han resultado ser mortales.,Cuatro de cuatro casos han resultado ser mortales.,neutral,neutral,neutral
+121,whole,unos,Unos casos han resultado ser mortales.,Cuatro de cuatro casos han resultado ser mortales.,contradiction,contradiction,contradiction
+122,sub,algunos,Algunos palestinos lo consideraron profundamente corrupto.,Tres de cuatro palestinos lo consideraron profundamente corrupto.,neutral,neutral,neutral
+122,sub,unos,Unos palestinos lo consideraron profundamente corrupto.,Tres de cuatro palestinos lo consideraron profundamente corrupto.,neutral,neutral,neutral
+122,whole,algunos,Algunos palestinos lo consideraron profundamente corrupto.,Cuatro de cuatro palestinos lo consideraron profundamente corrupto.,neutral,neutral,neutral
+122,whole,unos,Unos palestinos lo consideraron profundamente corrupto.,Cuatro de cuatro palestinos lo consideraron profundamente corrupto.,contradiction,neutral,neutral
+123,sub,algunos,Algunos locales comerciales denunciaron destrozos.,Tres de cuatro locales comerciales denunciaron destrozos.,neutral,neutral,neutral
+123,sub,unos,Unos locales comerciales denunciaron destrozos.,Tres de cuatro locales comerciales denunciaron destrozos.,neutral,neutral,neutral
+123,whole,algunos,Algunos locales comerciales denunciaron destrozos.,Cuatro de cuatro locales comerciales denunciaron destrozos.,neutral,neutral,neutral
+123,whole,unos,Unos locales comerciales denunciaron destrozos.,Cuatro de cuatro locales comerciales denunciaron destrozos.,contradiction,neutral,contradiction
+124,sub,algunos,Algunos agentes lloraban.,Tres de cuatro agentes lloraban.,neutral,neutral,neutral
+124,sub,unos,Unos agentes lloraban.,Tres de cuatro agentes lloraban.,contradiction,neutral,contradiction
+124,whole,algunos,Algunos agentes lloraban.,Cuatro de cuatro agentes lloraban.,neutral,neutral,neutral
+124,whole,unos,Unos agentes lloraban.,Cuatro de cuatro agentes lloraban.,contradiction,neutral,contradiction
+125,sub,algunos,Algunos niños resultaron heridos en los brazos.,Tres de cuatro niños resultaron heridos en los brazos.,neutral,neutral,neutral
+125,sub,unos,Unos niños resultaron heridos en los brazos.,Tres de cuatro niños resultaron heridos en los brazos.,contradiction,neutral,contradiction
+125,whole,algunos,Algunos niños resultaron heridos en los brazos.,Cuatro de cuatro niños resultaron heridos en los brazos.,neutral,neutral,neutral
+125,whole,unos,Unos niños resultaron heridos en los brazos.,Cuatro de cuatro niños resultaron heridos en los brazos.,contradiction,neutral,contradiction
+126,sub,algunos,Algunos trabajadores lo responsabilizaron por esta muerte.,Tres de cuatro trabajadores lo responsabilizaron por esta muerte.,neutral,neutral,neutral
+126,sub,unos,Unos trabajadores lo responsabilizaron por esta muerte.,Tres de cuatro trabajadores lo responsabilizaron por esta muerte.,contradiction,neutral,contradiction
+126,whole,algunos,Algunos trabajadores lo responsabilizaron por esta muerte.,Cuatro de cuatro trabajadores lo responsabilizaron por esta muerte.,neutral,neutral,neutral
+126,whole,unos,Unos trabajadores lo responsabilizaron por esta muerte.,Cuatro de cuatro trabajadores lo responsabilizaron por esta muerte.,contradiction,neutral,contradiction
+127,sub,algunos,Algunos sectores permanecen a oscuras.,Tres de cuatro sectores permanecen a oscuras.,neutral,neutral,neutral
+127,sub,unos,Unos sectores permanecen a oscuras.,Tres de cuatro sectores permanecen a oscuras.,neutral,neutral,neutral
+127,whole,algunos,Algunos sectores permanecen a oscuras.,Cuatro de cuatro sectores permanecen a oscuras.,neutral,neutral,neutral
+127,whole,unos,Unos sectores permanecen a oscuras.,Cuatro de cuatro sectores permanecen a oscuras.,neutral,neutral,neutral
+128,sub,algunos,Algunos negociadores esperan avances.,Tres de cuatro negociadores esperan avances.,neutral,neutral,neutral
+128,sub,unos,Unos negociadores esperan avances.,Tres de cuatro negociadores esperan avances.,neutral,neutral,contradiction
+128,whole,algunos,Algunos negociadores esperan avances.,Cuatro de cuatro negociadores esperan avances.,neutral,neutral,neutral
+128,whole,unos,Unos negociadores esperan avances.,Cuatro de cuatro negociadores esperan avances.,contradiction,neutral,contradiction
+129,sub,algunos,Algunos opositores lo condenaban.,Tres de cuatro opositores lo condenaban.,neutral,neutral,neutral
+129,sub,unos,Unos opositores lo condenaban.,Tres de cuatro opositores lo condenaban.,neutral,neutral,contradiction
+129,whole,algunos,Algunos opositores lo condenaban.,Cuatro de cuatro opositores lo condenaban.,neutral,neutral,neutral
+129,whole,unos,Unos opositores lo condenaban.,Cuatro de cuatro opositores lo condenaban.,contradiction,neutral,contradiction
+130,sub,algunos,Algunos jugadores cuestionaron el estilo del entrenador.,Tres de cuatro jugadores cuestionaron el estilo del entrenador.,neutral,neutral,neutral
+130,sub,unos,Unos jugadores cuestionaron el estilo del entrenador.,Tres de cuatro jugadores cuestionaron el estilo del entrenador.,neutral,neutral,neutral
+130,whole,algunos,Algunos jugadores cuestionaron el estilo del entrenador.,Cuatro de cuatro jugadores cuestionaron el estilo del entrenador.,neutral,neutral,neutral
+130,whole,unos,Unos jugadores cuestionaron el estilo del entrenador.,Cuatro de cuatro jugadores cuestionaron el estilo del entrenador.,contradiction,neutral,contradiction
+131,sub,algunos,Algunos expertos dicen que no tiene validez.,Tres de cuatro expertos dicen que no tiene validez.,neutral,neutral,neutral
+131,sub,unos,Unos expertos dicen que no tiene validez.,Tres de cuatro expertos dicen que no tiene validez.,neutral,neutral,neutral
+131,whole,algunos,Algunos expertos dicen que no tiene validez.,Cuatro de cuatro expertos dicen que no tiene validez.,neutral,neutral,neutral
+131,whole,unos,Unos expertos dicen que no tiene validez.,Cuatro de cuatro expertos dicen que no tiene validez.,neutral,neutral,neutral
+132,sub,algunos,Algunos pacientes necesitarán cirugías en casos extremos.,Tres de cuatro pacientes necesitarán cirugías en casos extremos.,neutral,neutral,neutral
+132,sub,unos,Unos pacientes necesitarán cirugías en casos extremos.,Tres de cuatro pacientes necesitarán cirugías en casos extremos.,contradiction,contradiction,neutral
+132,whole,algunos,Algunos pacientes necesitarán cirugías en casos extremos.,Cuatro de cuatro pacientes necesitarán cirugías en casos extremos.,neutral,neutral,neutral
+132,whole,unos,Unos pacientes necesitarán cirugías en casos extremos.,Cuatro de cuatro pacientes necesitarán cirugías en casos extremos.,contradiction,contradiction,contradiction
