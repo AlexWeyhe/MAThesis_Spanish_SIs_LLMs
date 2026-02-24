@@ -1,4 +1,4 @@
-# Title: Pragmatic Inference of Scalar Implicatures in Spanis by Large Language Models
+# Title: Pragmatic Inference of Scalar Implicatures in Spanish by Large Language Models
 ## Student: Weyhe, Alexander
 ## Supervisors: Zymla, Mark-Matthias & Bade, Nadine
 
