@@ -4,7 +4,7 @@
 
 This Masters thesis investigates the capability of Large Language Models (LLM) to infer scalar implicatures in Spanish. In doing so, two different experiments were conducted:
   1. Computing surprisal scores of a sequence with one context sentence (whole or subset) and one target sentence (algunos or unos).
-  2. Leveraging the Natural Language Inference (NLI) capabilities of LLMs with by emplyoing NLI finetune models.
+  2. Leveraging the Natural Language Inference (NLI) capabilities of LLMs by emplyoing Spanish models fine-tuned for NLI.
 
 ## Data
 The data used for the experiments was constructed from the *Wortschatz Leipzig Corpus* (Goldhahn et al. 2012) and annotated to add context and target sentences.
