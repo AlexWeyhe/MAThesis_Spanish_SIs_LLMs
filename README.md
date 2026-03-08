@@ -1,11 +1,10 @@
-# Title: Pragmatic Inference of Scalar Implicatures in Spanis by Large Language Models
+# Title: Pragmatic Inference of Scalar Implicatures in Spanish by Large Language Models
 ## Student: Weyhe, Alexander
 ## Supervisors: Zymla, Mark-Matthias & Bade, Nadine
 
-This Masters thesis investigates the capability of Large Language Models (LLM) to infer scalar implicatures in Spanish. In doing so, three different experiments were conducted:
+This Masters thesis investigates the capability of Large Language Models (LLM) to infer scalar implicatures in Spanish. In doing so, two different experiments were conducted:
   1. Computing surprisal scores of a sequence with one context sentence (whole or subset) and one target sentence (algunos or unos).
-  2. Leveraging the Natural Language Inference (NLI) capabilities of LLMs with a target sentence (algunos or unos) as premise and a context sentence (whole or subset) as hypothesis.
-  3. Directly prompting LLMs to retrieve acceptance ratings.
+  2. Leveraging the Natural Language Inference (NLI) capabilities of LLMs by emplyoing Spanish models fine-tuned for NLI.
 
 ## Data
 The data used for the experiments was constructed from the *Wortschatz Leipzig Corpus* (Goldhahn et al. 2012) and annotated to add context and target sentences.
